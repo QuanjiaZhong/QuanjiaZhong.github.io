@@ -38,138 +38,75 @@ My research interests include:
 
 ## Selected Publications
 
-- **AI-powered Spatiotemporal Imputation and Prediction of Chlorophyll-a Concentration in Coastal Oceans  \[[Paper](https://www.nature.com/articles/s41467-025-62901-9)\]\[[Code](https://github.com/YangLabHKUST/STIMP)\]**
+- **Landfalling tropical cyclones accelerate due to land–sea thermal and roughness contrasts. \[[Paper](https://www.nature.com/articles/s41467-025-68070-z)\]**
 
-  **Fan Zhang**, Hiusuet Kung, Fa Zhang, Can Yang#, Jianping Gan#.
+ **Quanjia Zhong**, Johnny C. L. Chan#, Wansuo Duan, Shifei Tu, Jianping Li, Jianping Gan and Ruiqiang Ding#.
 
-  *Nature Communications, 2025, 16(1): 7656.*
+  *Nature Geoscience, 2026, In press.*
 
-
-- **Inhibiting Error Exacerbation in Offline Reinforcement Learning with Data Sparsity. \[[Paper](https://ieeexplore.ieee.org/document/11197576)\]**
+- **Global Increase in Rain Rate of Tropical Cyclones Prior to Landfall. \[[Paper](https://www.nature.com/articles/s41467-025-68070-z)\]**
    
-  **Fan Zhang**,  Malu Zhang#, Wenyu Chen, Siying Wang, Xin Zhang, Jiayin Li, Yang Yang.
+ **Quanjia Zhong**, Jianping Gan#, Shifei Tu, Raft Toumi, Johnny C. L. Chan#.
 
-  *IEEE Transactions on Neural Networks and Learning Systems, doi:10.1109/TNNLS.2025.3615982*
+ *Nature Communications, 2026, 17(114): 1-9.*
   
-- **An Attention-Based Interactive Learning-to-Rank Model for Document Retrieval. \[[Paper](https://ieeexplore.ieee.org/document/9657486)\]\[[Code](https://github.com/Ryanfzhang/An-Attention-Based-Interactive-Learning-to-Rank-Model-for-Document-Retrieval)\]**
+- **Do Tropical Cyclones Have a Steady Translation Under a Uniform Steering Flow? \[[Paper](https://ieeexplore.ieee.org/document/9657486)\]**
 
-  **Fan Zhang**, Wenyu Chen, Mingsheng Fu, Fan Li, Hong Qu#, Zhang Yi.
+  **Quanjia Zhong**, Jianping Gan#, Donglei Shi, Shifei Tu, Johnny C. L. Chan#.
 
-  *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022, 52(9): 5770-5782.*
+  *IGeophysical Research Letters, In press.*
   
-  
-
-  
-
 ## Publications
 
-- **GPAS: Accelerating Convergence of LLM Pretraining via Gradient-Preserving Activation Scaling \[[Paper](https://arxiv.org/abs/2506.22049)\]**
-
-  Tianhao Chen, Xin Xu, Zijing Liu, Pengxiang Li, Xinyuan Song, Ajay Kumar Jaiswal, **Fan Zhang**, Jishan Hu, Yang Wang, Hao Chen, Shizhe Diao, Shiwei Liu, Yu Li, Lu Yin, Can Yang
-
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeuIPS 2025**)*
-
-- **Toward Energy-Efficient Spike-Based Deep Reinforcement Learning With Temporal Coding \[[Paper](https://ieeexplore.ieee.org/abstract/document/10976463)\]**
-
-  Malu Zhang, Shuai Wang, Jibin Wu, Wenjie Wei, Dehao Zhang, Zijian Zhou, Siying Wang, **Fan Zhang**, Yang Yang
-  
-  *IEEE Computational Intelligence Magazine, 2025, 20(2): 45-57*
-
-
-- **Sequence value decomposition transformer for cooperative multi-agent reinforcement learning \[[Paper](https://www.sciencedirect.com/science/article/pii/S0020025525006462)\]**
-  
-  Zhitong Zhao, Ya Zhang, Wenyu Chen, **Fan Zhang**, Siying Wang, Yang Zhou
-
-  *Information Science, 2025, 122514*
-  
-- **Decoupled Feature Matching for Few-shot Counting and Localization. \[[Paper](https://ieeexplore.ieee.org/abstract/document/10887922)\]**
-
-  Chao Zhai, **Fan Zhang**, Wenyu Chen#, Malu Zhang, Fan Li, Xuanting Xie.
-
-  *2025 International Conference on Acoustics, Speech, and Signal Processing*
-
-  
-- **Class-Agnostic Counting and Localization with Feature Augmentation and Scale-Adaptive Aggregation. \[[Paper](https://doi.org/10.1016/j.knosys.2024.112104)\]**  
-
-  Chao Zhai, Yuhui Du, Hong Qu, Tianlei Wang, **Fan Zhang**, Mingsheng Fu, Wenyu Chen#.
-
-  *Knowledge-Based Systems, 2024, 112104*
-  
-- **QDAP: Downsizing adaptive policy for cooperative multi-agent reinforcement learning. \[[Paper](https://doi.org/10.1016/j.knosys.2024.111719)\]**
-
-  Zhitong Zhao, Ya Zhang, Siying Wang, **Fan Zhang**, Malu Zhang, Wenyu Chen.
-
-  *Knowledge-Based Systems, 2024, 294: 111719*
-
-- **A novel self-supervised representation learning framework based on time-frequency alignment and interaction for mechanical fault diagnosis. \[[Paper](https://www.sciencedirect.com/science/article/pii/S0950705124004805?via%3Dihub)\]**
-
-  Daxing Fu, Jie Liu, Hao Zhong, Xin Zhang#, **Fan Zhang**.
-
-  *Knowledge-Based Systems, 2024: 111846*
-
-- **A pruned-optimized weighted graph convolutional network for axial flow pump fault diagnosis with hydrophone signals. \[[Paper](https://www.sciencedirect.com/science/article/pii/S1474034624000132?via%3Dihub)\]**
-
-  Xin Zhang, Li Jiang, Lei Wang, Tianao Zhang, **Fan Zhang**.
-
-  *Advanced Engineering Informatics, 2024, 60: 102365*
-
-- **Regularization-Adapted Anderson Acceleration for multi-agent reinforcement learning. \[[Paper](https://www.sciencedirect.com/science/article/pii/S0950705123004598?via%3Dihub)\]**
-
-  Siying Wang, Wenyu Chen, Liwei Huang, **Fan Zhang**, Zhitong Zhao, Hong Qu#.
-
-  *Knowledge-Based Systems.  2023, 275: 110709.*
-
-- **Neural Reranking-Based Collaborative Filtering by Leveraging Listwise Relative Ranking Information. \[[Paper](https://ieeexplore.ieee.org/document/9834323)\]**
-
-  Fan Li, Hong Qu#, Mingsheng Fu, Liyan Zhang, **Fan Zhang**, Wenyu Chen, Ruixuan Sun, Haixian Zhang.
-
-  *IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2023, 53(2): 882-896.*
-
-- **Improving Exploration in Actor-Critic with Weakly-pessimistic Value Estimation and Optimistic Policy Optimization. \[[Paper](https://ieeexplore.ieee.org/document/9932556)\]**
-
-  Fan Li, Mingsheng Fu#, Wenyu Chen, **Fan Zhang**, Haixian Zhang, Hong Qu#, Zhang Yi.
-
-  *IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3215596.*
+1.	Johnny C. L. Chan, Quanjia Zhong*, 2025: Changes in Track Characteristics of Tropical Cyclones Near Landfall: A Review. Advances in Atmospheric Sciences, In press. （JCR: Q1）
+2.	Ming Zhang, Quanjia Zhong*, Ruiqiang Ding, and Tao Wen, 2025: Unraveling the Anisotropic Pattern of Track Uncertainty in Tropical Cyclones. Environmental Research Letters, In press. （JCR: Q1）
+3.	Tao Wen, Jianping Li, Shifei Tu, Ruiqiang Ding*, Quanjia Zhong*, and Xumin Li (2025). Modulation of western North Pacific tropical cyclone decadal variability by the Victoria mode. Environmental Research Letters, 20(3), 034003. （JCR: Q1）
+4.	Tao Wen, Jianping Li, Shifei Tu, Quanjia Zhong*, Ruiqiang Ding*, and Ming Zhang, 2025: Asymmetric Influence of the North Pacific Victoria Mode on Intense Tropical Cyclone Formation in the Western North Pacific. Journal of Geophysical Research: Oceans, 130, e2025JC022505. （JCR: Q1）
+5.	Shifei Tu, Ziyan Deng, Quanjia Zhong*, Mei Liang*, and Jianjun Xu, 2025: Northwestward Shifts in the Location of Genesis Reduces the Lifetime of Landfalling Tropical Cyclones in China. Scientific Reports, 15(1), 28764. （JCR: Q1）
+6.	Quanjia Zhong, Xu Lu, Xuguang Wang, Ruiqiang Ding, Wansuo Duan, and Zhaolu Hou (2023). Role of the thermodynamic structure of the inner core in predicting the intensification of Hurricane Patricia (2015). Journal of Geophysical Research: Atmospheres, 128(15), e2023JD038645. （JCR: Q1）
+7.	Quanjia Zhong, Xuguang Wang, Ruiqiang Ding, Xu Lu, Wansuo Duan, and Yongjie Huang (2023). Impact of the low wavenumber structure in the initial vortex wind analyses on the prediction of the intensification of Hurricane Patricia (2015). Journal of Geophysical Research: Atmospheres, 128, e2022JD037082. （JCR: Q1）
+8.	Deyu Lu, Ruiqiang Ding, Quanjia Zhong*, Jiangyu Mao, and Jianping Li (2023). A rapid intensification warning index for tropical cyclones based on the analog method. Geophysical Research Letters, 50, e2022GL101951. （JCR: Q1）
+9.	Quanjia Zhong, Jianping Li, Lifeng Zhang, Ruiqiang Ding, and Baosheng Li (2018). Predictability of tropical cyclone intensity over the western North Pacific using the IBTrACS dataset. Monthly Weather Review, 146, 2741–2755. （JCR: Q1）
+10. Quanjia Zhong, Lifeng Zhang, Jianping Li, Ruiqiang Ding, and Jie Feng (2018). Estimating the predictability limit of tropical cyclone tracks over the western North Pacific using observational data. Advances in Atmospheric Sciences, 35(12), 1491–1504. （JCR: Q1）
+11. Ming Zhang, Ruiqiang Ding*, Quanjia Zhong*, Jianping Li, and Deyu Lu (2024). Application of the conditional nonlinear local Lyapunov exponent to second-kind predictability. Advances in Atmospheric Sciences, 41(9), 1769–1786. （JCR: Q1）
+12. Songjiang Feng, Yan Tan, Junfeng Kang, Quanjia Zhong*, Yanjie Li, and Ruiqiang Ding* (2023). Bias correction of tropical cyclone intensity forecasts using the XGBoost method. Weather and Forecasting, 39(2), 323–332. （JCR: Q2）
+13. Deyu Lu, Ruiqiang Ding, Jiangyu Mao, and Quanjia Zhong* (2023). Comparison of different global ensemble prediction systems for tropical cyclone intensity forecasting. Atmospheric Science Letters, 25(4), e1207. （JCR: Q3）
+14. Junfeng Kang, Songjiang Feng, Qian Zou, Ruiqiang Ding, and Quanjia Zhong* (2022). Machine learning-based method of correcting nonlinear local Lyapunov vectors ensemble forecasting (in Chinese). Acta Physica Sinica, 71(8), 080503. （JCR: Q3）
+15. Quanjia Zhong, Jianping Li, Shuwen Li, Yuan Wang, Ruiqiang Ding, and Lifeng Zhang (2021). Influence of sea surface temperature on the predictability of idealized tropical cyclone intensity. Journal of Tropical Meteorology, 27, 355–367. （JCR: Q4）
+16. Quanjia Zhong, Lifeng Zhang, Ruiqiang Ding, and Jianhuang Qin (2016). The variation of summer precipitation in South China and its relationship with SST anomalies in the tropical Pacific (in Chinese). Advances in Climate Change Research, 12(1), 28–36.
+17. Mengjiao Du, Ruixin Liu, Quanjia Zhong*, Xiang Li, and Kan Yi (2023). Study and application on the method of estimating disaster warning time for offshore wind farms based on tropical cyclone radius (in Chinese). Marine Forecasts, 40(3), 66–74.
+18. Yujie Liu, Yang Li, Ruiqiang Ding, Quanjia Zhong*, and Shifei Tu (2023). Differences in precipitation characteristics before and after rapid intensification of tropical cyclones over the western North Pacific Ocean (in Chinese). Journal of Guangdong Ocean University, 43(3), 1–9.
 
 
 ## Preprints
 
+1.	**Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Jianping Li and Ruiqiang Ding, 2025: **Landward acceleration of tropical cyclones making landfall along the South China coast**. To be submitted to Geophysical Research Letters, Under review.
+2.	Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong***, and Ruiqiang Ding, 2025: **Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories**. Submitted to Science Advance, Under review.
 
-- **GraphKAN: Enhancing Feature Extraction with Graph Kolmogorov Arnold Networks. \[[Paper](https://arxiv.org/abs/2406.13597)\]**
-   
-  **Fan Zhang**, Xin Zhang#.
-
-- **A Heterogeneous Value Decomposition Policy Fusion Scheme for Multi-Agent Cooperation \[Under review\]**
-  
-  Siying Wang, Yang Zhou, Ruoning Zhang, Zhitong Zhao, **Fan Zhang#**, Jinliang Shao, Yuhua Cheng
-
-- **Pessimistic Auxiliary Policy for Offline Reinforcement Learning. \[Under review\]**
-  
-  **Fan Zhang** , Hongrui Wang, Baoru Huang, Xin Zhang#
-
-- **Taming the heterogeneous dynamics in ocean chlorophyll-a concentration prediction with a deep learning model.** 
-
-  Fa Zhang, Hiusuet Kung, **Fan Zhang**, Zhiwei Wang, Can Yang#, Jianping Gan#.
-
-- **SyncTrack: Rhythmic Stability and Synchronization in Multi-Track Music Generation.**
-
-  Hongrui Wang, **Fan Zhang#**,  Zhiyuan Yu, Ziya Zhou, Xi Chen, Can Yang, Yang Wang# 
 
 # 💻 Professional Experience
-- *2023.10 - Now*, Postdoctoral Associate, The Hong Kong University of Science and Technology.
-  
+
+- *2023.11 - Present*, Postdoctoral Fellow, The Hong Kong University of Science and Technology.
+- *2020.05 - 2023.10*, Postdoctoral Fellow, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS).
+
 # 🎓 Education
-- *2017.09 - 2023.08*, Ph.D. in Computer Science and Technology, The University of Electronic Science and Technology of China.
-- *2013.09 - 2017.06*, B.Sc. in Computer Science and Technology, The University of Electronic Science and Technology of China.
+
+- *2016.09 - 2020.06*, Ph.D., Meteorology, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS), China. 
+   Dissertation: Predictability and Ensemble Prediction of Tropical Cyclones over the Western North Pacific
+   Advisor: Prof. Ruiqiang Ding
+- *2018.10 - 2019.10*, Visiting Student, School of Meteorology, University of Oklahoma, USA.
+   Advisor: Prof. Xuguang Wang (AMS Fellows)
+- *2013.09 - 2016.06*, M.S., Atmospheric Sciences, College of Meteorology and Oceanography, PLA University of Science and Technology, China. 
+   Dissertation: Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track
+   Advisor: Prof. Lifeng Zhang
+- *2009.09 - 2013.06*, B.S., Atmospheric Sciences, College of Ocean and Meteorology, Guangdong Ocean University, China.
 
 # 💬 Service
+
 **Invited Journal Reviewer**:
-- IEEE Transactions on Cybernetics, Knowledge-based System, Advanced Engineering Informatics, Neurocomputing, Information Science, IEEE/CAA Journal of Automatica Sinica, Engineering Applications of Artificial Intelligence
+- Environmental Research Letters, Journal of Geophysical Research: Atmospheres, Journal Climate, Climate Dynamic, Meteorological Applications, Remote Sensing, Atmospheres, Chinese Journal of the Atmospheric Sciences, Transactions of Atmospheric Sciences
   
-**Invited Conference Reviewer**:
-- IJCNN (2021, 2022)
-- AAAI (2026)
-- ICLR (2026)
+**Editorial board**:
+- 海洋气象学报 青年编委（2025-2027）
 
 # 📖 Teaching
-- 2019.09-2020.06, Finite Automata Theory, Teaching Assistant, UESTC.
