@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral associate in the Department of Mathematics at Hong Kong University of Science and Technology, jointly advised by Prof. [Can Yang](https://sites.google.com/site/eeyangc/) and Prof. [Jianping Gan](https://www.math.hkust.edu.hk/people/faculty/profile/magan/). I completed my Ph.D. at the University of Electronic Science and Technology of China, under the supervision of Prof. [Wenyu Chen](https://www.researchgate.net/profile/Wenyu-Chen-10) and Prof. [Hong Qu](https://www.researchgate.net/profile/Hong-Qu-4). I received my Bachelor degree at the University of Electronic Science and Technology of China, advised by Prof. [Hancong Duan](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/10880?yxsh=08).
+I am currently a postdoctoral associate in the Department of Ocean Science at Hong Kong University of Science and Technology, jointly advised by Prof. [Johnny C. L. Chan](https://www.cityu.edu.hk/see/people/prof-johnny-c-l-chan) and Prof. [Jianping Gan](https://www.math.hkust.edu.hk/people/faculty/profile/magan/). I completed my Ph.D. at the Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences, under the supervision of Prof. [Ruiqiang Ding](https://geot.bnu.edu.cn/Public/htm/news/5/1028.html) and Prof. [Xuguang Wang](https://www.ou.edu/ags/meteorology/people/faculty/xuguang-wang). I received my Master degree at the PLA University of Science and Technology (advised by Prof. Lifeng Zhang) and Bachelor degree at the Guangdong Ocean University.
 
 My research interests include:
 1. **AI for Scientific Discovery**: discover scientific concept from noisy observational data, with application in Ocean and life science.
