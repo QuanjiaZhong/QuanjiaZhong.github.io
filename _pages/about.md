@@ -43,11 +43,11 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 # 📝 Conferences, Workshops and Symposia
 
-• Quanjia Zhong, Johnny C. L. Chan, Jianping Gan. Has tropical cyclone track prediction reached the predictability limit? Asia Oceania Geosciences Society (AOGS) 22th Annual Meeting. 26 July to 2 August 2025 Singapore, Singapore. (**Invited Talk**) 
-• Quanjia Zhong, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Jianping Li and Ruiqiang Ding. Land-sea contrast leading to a speedup of landfalling tropical cyclones. Asia Oceania Geosciences Society (AOGS) 21th Annual Meeting. 22 to 28 June 2024 Pyeongchang, South Korea. (**Invited Talk**)
-• Quanjia Zhong, Xuguang Wang, Ruiqiang Ding, Xu Lu, Wansuo Duan and Yongjie Huang. Impact of the low wavenumber structure in the initial vortex wind analyses on the prediction of the intensification of Hurricane Patricia (2015). The 28th International Union of Geodesy and Geophysics (IUGG) General Assembly. 11 to 20 July 2023 Berlin, Germany. (Poster)
-• Quanjia Zhong, Jianping Li, Lifeng Zhang, Ruiqiang Ding and Baosheng Li. Predictability of Tropical Cyclone Intensity over the Western North Pacific using the IBTrACS dataset. European Geosciences Union (EGU) General Assembly. 8 to 14 April 2018 Vienna, Austria. (Poster)
-• Quanjia Zhong, Lifeng Zhang, Jianping Li, Ruiqiang Ding and Jie Feng. Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track. Asia Oceania Geosciences Society (AOGS) 12th Annual Meeting. 2 to 7 August 2015 Singapore. (Oral)
+- Has tropical cyclone track prediction reached the predictability limit? Asia Oceania Geosciences Society (AOGS) 22th Annual Meeting. 26 July to 2 August 2025 Singapore, Singapore. (**Invited Talk**) 
+- Land-sea contrast leading to a speedup of landfalling tropical cyclones. Asia Oceania Geosciences Society (AOGS) 21th Annual Meeting. 22 to 28 June 2024 Pyeongchang, South Korea. (**Invited Talk**)
+- Impact of the low wavenumber structure in the initial vortex wind analyses on the prediction of the intensification of Hurricane Patricia (2015). The 28th International Union of Geodesy and Geophysics (IUGG) General Assembly. 11 to 20 July 2023 Berlin, Germany. (Poster)
+- Predictability of Tropical Cyclone Intensity over the Western North Pacific using the IBTrACS dataset. European Geosciences Union (EGU) General Assembly. 8 to 14 April 2018 Vienna, Austria. (Poster)
+- Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track. Asia Oceania Geosciences Society (AOGS) 12th Annual Meeting. 2 to 7 August 2015 Singapore. (Oral)
 
 # 📝 Publications 
 
