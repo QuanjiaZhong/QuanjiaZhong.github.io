@@ -17,17 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral associate in the Department of Ocean Science at Hong Kong University of Science and Technology, jointly advised by Prof. [Johnny C. L. Chan](https://www.cityu.edu.hk/see/people/prof-johnny-c-l-chan) and Prof. [Jianping Gan](https://www.math.hkust.edu.hk/people/faculty/profile/magan/). I completed my Ph.D. at the Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences, under the supervision of Prof. [Ruiqiang Ding](https://geot.bnu.edu.cn/Public/htm/news/5/1028.html) and Prof. [Xuguang Wang](https://www.ou.edu/ags/meteorology/people/faculty/xuguang-wang). I received my Master degree at the PLA University of Science and Technology (advised by Prof. Lifeng Zhang) and Bachelor degree at the Guangdong Ocean University.
+I am currently a postdoctoral fellow in the Department of Ocean Science at Hong Kong University of Science and Technology, jointly advised by Prof. [Johnny C. L. Chan](https://www.cityu.edu.hk/see/people/prof-johnny-c-l-chan) and Prof. [Jianping Gan](https://www.math.hkust.edu.hk/people/faculty/profile/magan/). Prior to joining HKUST, I conducted postdoctoral research at the Institute of Atmospheric Physics, Chinese Academy of Sciences, under the supervision of Prof. Ruiqiang Ding and Prof. [Wansuo Duan](https://labesm-staff.iap.ac.cn/duanws/index/article/index/arid/1.html). I completed my Ph.D. at the Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences, under the supervision of Prof. [Ruiqiang Ding](https://geot.bnu.edu.cn/Public/htm/news/5/1028.html) and Prof. [Xuguang Wang](https://www.ou.edu/ags/meteorology/people/faculty/xuguang-wang). I received my master’s degree from the PLA University of Science and Technology, advised by Prof. Lifeng Zhang, and my bachelor’s degree from Guangdong Ocean University.
 
 My research interests include:
-1. **AI for Scientific Discovery**: discover scientific concept from noisy observational data, with application in Ocean and life science.
-2. **Reinforcement Learning**: offline reinforcement learning, multi-agent reinforcement learning.
+1. **Atmospheric predictability**: quantifying the predictability limits of tropical cyclones.
+2. **Ensemble forecasting**: developing an ensemble prediction system based on the WRF model.
+2. **Tropical cyclones dynamics**: offering new physical insights into TC behavior.
+3. **AI for tropical cyclones prediction**: applying artificial intelligence to tropical cyclone prediction.
 
 
 # 🔥 News
-- *2025.09*: 🎉 One paper was accepted by **IEEE Transactions on Neural Networks and Learning Systems**.
-- *2025.08*: 🎉 One paper was accepted by **Nature Communications**.
-- *2023.10*: 🎉 Join YangLab@HKUST as Postdoctoral Associate.
+- *2025.12*: 🎉 Recipient of the **Outstanding Application Award of the GuangZhou Supercomputer (2025)**.
+- *2025.11*: 🎉 One paper was accepted by **Nature Communications**.
+- *2025.11*: 🎉 One paper was accepted by **Geophysical Research Letters**
+- *2025.09*: 🎉 One paper was accepted by **Nature Geoscience**.
+- *2023.11*: 🎉 Join ODMP@HKUST as Postdoctoral Fellow.
 
 
 # 📝 Publications 
