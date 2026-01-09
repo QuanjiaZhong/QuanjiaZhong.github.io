@@ -38,6 +38,24 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 - *2023.11*: 🎉 Join ODMP@HKUST as Postdoctoral Fellow.
 
 
+# 💻 Professional Experience
+- *2023.11 - Present*, Postdoctoral Fellow, The Hong Kong University of Science and Technology.
+- *2020.05 - 2023.10*, Postdoctoral Fellow, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS).
+- *2020.10 - 2021.05*, Research Assistant, City University of Hong Kong.
+
+  
+# 🎓 Education
+- *2016.09 - 2020.06*, Ph.D., Meteorology, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS), China. 
+   Dissertation: Predictability and Ensemble Prediction of Tropical Cyclones over the Western North Pacific
+   Advisor: Prof. Ruiqiang Ding
+- *2018.10 - 2019.10*, Visiting Student, School of Meteorology, University of Oklahoma, USA.
+   Advisor: Prof. Xuguang Wang (AMS Fellows)
+- *2013.09 - 2016.06*, M.S., Atmospheric Sciences, College of Meteorology and Oceanography, PLA University of Science and Technology, China. 
+   Dissertation: Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track
+   Advisor: Prof. Lifeng Zhang
+- *2009.09 - 2013.06*, B.S., Atmospheric Sciences, College of Ocean and Meteorology, Guangdong Ocean University, China.
+
+
 # 🏧 Funded Grants
 - *Sole PI* “Predictability of Tropical Cyclone Intensity and Its Influence Mechanism”, National Natural Science Foundation of China (NSFC), 01/01/2022-12/31/2024.
 - *Sole PI* “Application of the Nonlinear Local Lyapunov Vectors in the Tropical Cyclone Ensemble prediction”, Shanghai Typhoon Research Fund, 11/01/2021-12/31/2023.
@@ -92,25 +110,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 2.	Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong***, and Ruiqiang Ding, 2025: **Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories**. Submitted to Science Advance, Under review.
 
 
-# 💻 Professional Experience
-- *2023.11 - Present*, Postdoctoral Fellow, The Hong Kong University of Science and Technology.
-- *2020.05 - 2023.10*, Postdoctoral Fellow, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS).
-- *2020.10 - 2021.05*, Research Assistant, City University of Hong Kong.
-
-  
-# 🎓 Education
-- *2016.09 - 2020.06*, Ph.D., Meteorology, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS), China. 
-   Dissertation: Predictability and Ensemble Prediction of Tropical Cyclones over the Western North Pacific
-   Advisor: Prof. Ruiqiang Ding
-- *2018.10 - 2019.10*, Visiting Student, School of Meteorology, University of Oklahoma, USA.
-   Advisor: Prof. Xuguang Wang (AMS Fellows)
-- *2013.09 - 2016.06*, M.S., Atmospheric Sciences, College of Meteorology and Oceanography, PLA University of Science and Technology, China. 
-   Dissertation: Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track
-   Advisor: Prof. Lifeng Zhang
-- *2009.09 - 2013.06*, B.S., Atmospheric Sciences, College of Ocean and Meteorology, Guangdong Ocean University, China.
-
-
-# 💬 Service
+# 🛎️ Service
 **Invited Journal Reviewer**:
 - Environmental Research Letters, Journal of Geophysical Research: Atmospheres, Journal Climate, Climate Dynamic, Meteorological Applications, Remote Sensing, Atmospheres, Chinese Journal of the Atmospheric Sciences, Transactions of Atmospheric Sciences
 
