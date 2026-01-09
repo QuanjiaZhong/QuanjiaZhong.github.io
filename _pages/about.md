@@ -39,7 +39,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 
 # 💻 Professional Experience
-- *2023.11 - Present*, Postdoctoral Fellow, The Hong Kong University of Science and Technology.
+- *2023.11 - Present*, Postdoctoral Fellow, Hong Kong University of Science and Technology.
 - *2020.05 - 2023.10*, Postdoctoral Fellow, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS).
 - *2020.10 - 2021.05*, Research Assistant, City University of Hong Kong.
 
