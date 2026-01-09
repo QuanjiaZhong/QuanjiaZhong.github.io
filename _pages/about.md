@@ -106,6 +106,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 
 # 🗣️ Conferences Workshops
+## International Conferences and Workshops
 - **Quanjia Zhong** Has tropical cyclone track prediction reached the predictability limit? Asia Oceania Geosciences Society (AOGS) 22th Annual Meeting. 26 July to 2 August 2025 Singapore, Singapore. (**Invited Talk**) 
 - **Quanjia Zhong** Land-sea contrast leading to a speedup of landfalling tropical cyclones. Asia Oceania Geosciences Society (AOGS) 21th Annual Meeting. 22 to 28 June 2024 Pyeongchang, South Korea. (**Invited Talk**)
 - **Quanjia Zhong** Impact of the low wavenumber structure in the initial vortex wind analyses on the prediction of the intensification of Hurricane Patricia (2015). The 28th International Union of Geodesy and Geophysics (IUGG) General Assembly. 11 to 20 July 2023 Berlin, Germany. (Poster)
@@ -114,10 +115,10 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 
 # 🛎️ Professional Activities
-**Invited Journal Reviewer**:
+## Invited Journal Reviewer
 - Environmental Research Letters, Journal of Geophysical Research: Atmospheres, Journal Climate, Climate Dynamic, Meteorological Applications, Remote Sensing, Atmospheres, Chinese Journal of the Atmospheric Sciences, Transactions of Atmospheric Sciences
 
-**Editorial Board**:
+## Editorial Board
 - 海洋气象学报 青年编委（2025-2027）
 
 
