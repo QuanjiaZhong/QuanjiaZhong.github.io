@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a postdoctoral fellow in the Department of Ocean Science at Hong Kong University of Science and Technology, jointly advised by Prof. [Johnny C. L. Chan](https://www.cityu.edu.hk/see/people/prof-johnny-c-l-chan) and Prof. [Jianping Gan](https://www.math.hkust.edu.hk/people/faculty/profile/magan/). Prior to joining HKUST, I conducted postdoctoral research at the Institute of Atmospheric Physics, Chinese Academy of Sciences, under the supervision of Prof. Ruiqiang Ding and Prof. [Wansuo Duan](https://labesm-staff.iap.ac.cn/duanws/index/article/index/arid/1.html). I completed my Ph.D. at the Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences, under the supervision of Prof. [Ruiqiang Ding](https://geot.bnu.edu.cn/Public/htm/news/5/1028.html) and Prof. [Xuguang Wang](https://www.ou.edu/ags/meteorology/people/faculty/xuguang-wang). I received my master’s degree from the PLA University of Science and Technology, advised by Prof. Lifeng Zhang, and my bachelor’s degree from Guangdong Ocean University.
+I am currently a postdoctoral fellow in the Department of Ocean Science at Hong Kong University of Science and Technology, jointly advised by Prof. [Johnny C. L. Chan](https://www.cityu.edu.hk/see/people/prof-johnny-c-l-chan) and Prof. [Jianping Gan](https://www.math.hkust.edu.hk/people/faculty/profile/magan/). Prior to joining HKUST, I conducted postdoctoral research at the Institute of Atmospheric Physics, Chinese Academy of Sciences, under the supervision of Prof. Ruiqiang Ding and Prof. [Wansuo Duan](https://labesm-staff.iap.ac.cn/duanws/index/article/index/arid/1.html). I completed my Ph.D. at the Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences, under the supervision of Prof. [Ruiqiang Ding](https://geot.bnu.edu.cn/Public/htm/news/5/1028.html). During my PhD studies, I was awarded a China Scholarship Council fellowship to visit the University of Oklahoma, where I conducted research on ensemble prediction under the supervision of Prof. [Xuguang Wang](https://www.ou.edu/ags/meteorology/people/faculty/xuguang-wang). I received my master’s degree from the PLA University of Science and Technology, advised by Prof. Lifeng Zhang, and my bachelor’s degree from Guangdong Ocean University.
 
 
 # 🛠️ My research interests include:
@@ -46,13 +46,13 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
   
 # 🎓 Education
 - *2016.09 - 2020.06*, Ph.D., Meteorology, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS), China. 
-   Dissertation: Predictability and Ensemble Prediction of Tropical Cyclones over the Western North Pacific
-   Advisor: Prof. Ruiqiang Ding
+   **Dissertation**: Predictability and Ensemble Prediction of Tropical Cyclones over the Western North Pacific
+   **Advisor**: Prof. Ruiqiang Ding
 - *2018.10 - 2019.10*, Visiting Student, School of Meteorology, University of Oklahoma, USA.
-   Advisor: Prof. Xuguang Wang (AMS Fellows)
+   **Advisor**: Prof. Xuguang Wang (AMS Fellows)
 - *2013.09 - 2016.06*, M.S., Atmospheric Sciences, College of Meteorology and Oceanography, PLA University of Science and Technology, China. 
-   Dissertation: Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track
-   Advisor: Prof. Lifeng Zhang
+   **Dissertation**: Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track
+   **Advisor**: Prof. Lifeng Zhang
 - *2009.09 - 2013.06*, B.S., Atmospheric Sciences, College of Ocean and Meteorology, Guangdong Ocean University, China.
 
 
