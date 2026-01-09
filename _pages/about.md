@@ -45,15 +45,15 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
   
 # 🎓 Education
-- *2016.09 - 2020.06*, Ph.D., Meteorology, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS), China. 
-   **Dissertation**: Predictability and Ensemble Prediction of Tropical Cyclones over the Western North Pacific
-   **Advisor**: Prof. Ruiqiang Ding
-- *2018.10 - 2019.10*, Visiting Student, School of Meteorology, University of Oklahoma, USA.
+- *2016.09 - 2020.06*, Ph.D., Meteorology, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS), China.   
+   **Dissertation**: Predictability and Ensemble Prediction of Tropical Cyclones over the Western North Pacific   
+   **Advisor**: Prof. Ruiqiang Ding   
+- *2018.10 - 2019.10*, Visiting Student, School of Meteorology, University of Oklahoma, USA.   
    **Advisor**: Prof. Xuguang Wang (AMS Fellows)
-- *2013.09 - 2016.06*, M.S., Atmospheric Sciences, College of Meteorology and Oceanography, PLA University of Science and Technology, China. 
-   **Dissertation**: Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track
-   **Advisor**: Prof. Lifeng Zhang
-- *2009.09 - 2013.06*, B.S., Atmospheric Sciences, College of Ocean and Meteorology, Guangdong Ocean University, China.
+- *2013.09 - 2016.06*, M.S., Atmospheric Sciences, College of Meteorology and Oceanography, PLA University of Science and Technology, China.   
+   **Dissertation**: Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track   
+   **Advisor**: Prof. Lifeng Zhang   
+- *2009.09 - 2013.06*, B.S., Atmospheric Sciences, College of Ocean and Meteorology, Guangdong Ocean University, China.   
 
 
 # 🏧 Funded Grants
