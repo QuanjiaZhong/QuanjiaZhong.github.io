@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
 I am currently a postdoctoral fellow in the Department of Ocean Science at Hong Kong University of Science and Technology, jointly advised by Prof. [Johnny C. L. Chan](https://www.cityu.edu.hk/see/people/prof-johnny-c-l-chan) and Prof. [Jianping Gan](https://www.math.hkust.edu.hk/people/faculty/profile/magan/). Prior to joining HKUST, I conducted postdoctoral research at the Institute of Atmospheric Physics, Chinese Academy of Sciences, under the supervision of Prof. Ruiqiang Ding and Prof. [Wansuo Duan](https://labesm-staff.iap.ac.cn/duanws/index/article/index/arid/1.html). I completed my Ph.D. at the Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences, under the supervision of Prof. [Ruiqiang Ding](https://geot.bnu.edu.cn/Public/htm/news/5/1028.html) and Prof. [Xuguang Wang](https://www.ou.edu/ags/meteorology/people/faculty/xuguang-wang). I received my master’s degree from the PLA University of Science and Technology, advised by Prof. Lifeng Zhang, and my bachelor’s degree from Guangdong Ocean University.
+
 
 # 🛠️ My research interests include:
 1. **Atmospheric predictability**: quantifying the predictability limits of tropical cyclones.
@@ -31,44 +33,40 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 - *2025.11*: 🎉 One paper was accepted by **Nature Communications**.
 - *2025.11*: 🎉 One paper was accepted by **Geophysical Research Letters**
 - *2025.09*: 🎉 One paper was accepted by **Nature Geoscience**.
+- *2025.09*: 🎉 Welcome Xiangdong Xu to join the group!
+- *2024.06*: 🎉 Congratulations to Songjiang Feng on his PhD admission at Beijing Normal University!
 - *2023.11*: 🎉 Join ODMP@HKUST as Postdoctoral Fellow.
 
-# 📝 Research Highlights
 
-
-# 📝 Funded Grants
-
+# 🏧 Funded Grants
 - *Sole PI* “Predictability of Tropical Cyclone Intensity and Its Influence Mechanism”, National Natural Science Foundation of China (NSFC), 01/01/2022-12/31/2024.
 - *Sole PI* “Application of the Nonlinear Local Lyapunov Vectors in the Tropical Cyclone Ensemble prediction”, Shanghai Typhoon Research Fund, 11/01/2021-12/31/2023.
 
-# 📝 Conferences, Workshops and Symposia
 
+# 🗣️ Conferences, Workshops and Symposia
 - Has tropical cyclone track prediction reached the predictability limit? Asia Oceania Geosciences Society (AOGS) 22th Annual Meeting. 26 July to 2 August 2025 Singapore, Singapore. (**Invited Talk**) 
 - Land-sea contrast leading to a speedup of landfalling tropical cyclones. Asia Oceania Geosciences Society (AOGS) 21th Annual Meeting. 22 to 28 June 2024 Pyeongchang, South Korea. (**Invited Talk**)
 - Impact of the low wavenumber structure in the initial vortex wind analyses on the prediction of the intensification of Hurricane Patricia (2015). The 28th International Union of Geodesy and Geophysics (IUGG) General Assembly. 11 to 20 July 2023 Berlin, Germany. (Poster)
 - Predictability of Tropical Cyclone Intensity over the Western North Pacific using the IBTrACS dataset. European Geosciences Union (EGU) General Assembly. 8 to 14 April 2018 Vienna, Austria. (Poster)
 - Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track. Asia Oceania Geosciences Society (AOGS) 12th Annual Meeting. 2 to 7 August 2015 Singapore. (Oral)
 
+
+# 🌟 Research Highlights
+
+
 # 📝 Publications 
-
 ## Selected Publications
-
 - **Landfalling tropical cyclones accelerate due to land–sea thermal and roughness contrasts. \[[Paper](https://www.nature.com/articles/s41467-025-68070-z)\]**
-
   **Quanjia Zhong**, Johnny C. L. Chan#, Wansuo Duan, Shifei Tu, Jianping Li, Jianping Gan and Ruiqiang Ding#. *Nature Geoscience, 2026, In press.*
 
-- **Global Increase in Rain Rate of Tropical Cyclones Prior to Landfall. \[[Paper](https://www.nature.com/articles/s41467-025-68070-z)\]**
-   
+- **Global Increase in Rain Rate of Tropical Cyclones Prior to Landfall. \[[Paper](https://www.nature.com/articles/s41467-025-68070-z)\]**   
   **Quanjia Zhong**, Jianping Gan#, Shifei Tu, Raft Toumi, Johnny C. L. Chan#. *Nature Communications, 2026, 17(114): 1-9.*
   
 - **Do Tropical Cyclones Have a Steady Translation Under a Uniform Steering Flow? \[[Paper](https://ieeexplore.ieee.org/document/9657486)\]**
-
   **Quanjia Zhong**, Jianping Gan#, Donglei Shi, Shifei Tu, Johnny C. L. Chan#. *Geophysical Research Letters, In press.*
 
 
-
 ## Publications
-
 1.	Johnny C. L. Chan, Quanjia Zhong*, 2025: Changes in Track Characteristics of Tropical Cyclones Near Landfall: A Review. Advances in Atmospheric Sciences, In press. （JCR: Q1）
 2.	Ming Zhang, Quanjia Zhong*, Ruiqiang Ding, and Tao Wen, 2025: Unraveling the Anisotropic Pattern of Track Uncertainty in Tropical Cyclones. Environmental Research Letters, In press. （JCR: Q1）
 3.	Tao Wen, Jianping Li, Shifei Tu, Ruiqiang Ding*, Quanjia Zhong*, and Xumin Li (2025). Modulation of western North Pacific tropical cyclone decadal variability by the Victoria mode. Environmental Research Letters, 20(3), 034003. （JCR: Q1）
@@ -90,18 +88,17 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 
 ## Preprints
-
 1.	**Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Jianping Li and Ruiqiang Ding, 2025: **Landward acceleration of tropical cyclones making landfall along the South China coast**. To be submitted to Geophysical Research Letters, Under review.
 2.	Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong***, and Ruiqiang Ding, 2025: **Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories**. Submitted to Science Advance, Under review.
 
 
 # 💻 Professional Experience
-
 - *2023.11 - Present*, Postdoctoral Fellow, The Hong Kong University of Science and Technology.
 - *2020.05 - 2023.10*, Postdoctoral Fellow, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS).
+- *2020.10 - 2021.05*, Research Assistant, City University of Hong Kong.
 
+  
 # 🎓 Education
-
 - *2016.09 - 2020.06*, Ph.D., Meteorology, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS), China. 
    Dissertation: Predictability and Ensemble Prediction of Tropical Cyclones over the Western North Pacific
    Advisor: Prof. Ruiqiang Ding
@@ -112,19 +109,19 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
    Advisor: Prof. Lifeng Zhang
 - *2009.09 - 2013.06*, B.S., Atmospheric Sciences, College of Ocean and Meteorology, Guangdong Ocean University, China.
 
-# 💬 Service
 
+# 💬 Service
 **Invited Journal Reviewer**:
 - Environmental Research Letters, Journal of Geophysical Research: Atmospheres, Journal Climate, Climate Dynamic, Meteorological Applications, Remote Sensing, Atmospheres, Chinese Journal of the Atmospheric Sciences, Transactions of Atmospheric Sciences
-  
+
 **Editorial board**:
 - 海洋气象学报 青年编委（2025-2027）
 
-# 🧑‍🎓 Group Members
 
+# 🧑‍🎓 Group Members
 **Students**:
 1.	👨‍🎓**Songjiang Feng**<sup>3</sup>, PhD student, Beijing Normal University (2024–present)
-2.	👨‍🎓**Xiangdong Xu**<sup>2</sup>, M.S. student, East China Normal University (2025–present)
+2.	👨‍🎓**Xiangdong Xu**<sup>2</sup>, M.S. student, Central China Normal University (2025–present)
 
 **Graduates**:
 1.	👨‍🎓**Songjiang Feng**<sup>1</sup>, M.S., Jiangxi University of Science and Technology (2020–2023)
