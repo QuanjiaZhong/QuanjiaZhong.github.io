@@ -24,8 +24,8 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 # 🛠️ My research interests include:
 1. **Atmospheric predictability**: quantifying the predictability limits of tropical cyclones.
 2. **Ensemble forecasting**: developing an ensemble prediction system based on the WRF model.
-2. **Tropical cyclones dynamics**: offering new physical insights into TC behavior.
-3. **AI for tropical cyclones prediction**: applying artificial intelligence to tropical cyclone prediction.
+2. **Tropical cyclone dynamics**: offering new physical insights into TC behavior.
+3. **AI for tropical cyclone prediction**: applying artificial intelligence to tropical cyclone prediction.
 
 
 # 🔥 News
