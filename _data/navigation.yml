@@ -6,17 +6,20 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
-
   - title: "Professional Experience"
     url: "/#-professional-experience"
 
   - title: "Education"
     url: "/#-education"
 
+  - title: "Funded Grants"
+    url: "/#-funded-grants"
+    
+  - title: "Publications"
+    url: "/#-publications"
+    
   - title: "Service"
     url: "/#-service"
 
-  - title: "Teaching"
-    url: "/#-teaching"
+  - title: "Group Members"
+    url: "/#-group-members"
