@@ -56,7 +56,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 # 📝 Publications 
 ## Selected Publications
-- **Landfalling tropical cyclones accelerate due to land–sea thermal and roughness contrasts. \[[Paper](https://www.nature.com/articles/s41467-025-68070-z)\]**
+- **Landfalling tropical cyclones accelerate due to land–sea thermal and roughness contrasts. \[[Paper](https://www.nature.com/articles/s41467-025-68070-z)\]**   
   **Quanjia Zhong**, Johnny C. L. Chan#, Wansuo Duan, Shifei Tu, Jianping Li, Jianping Gan and Ruiqiang Ding#. *Nature Geoscience, 2026, In press.*
 
 - **Global Increase in Rain Rate of Tropical Cyclones Prior to Landfall. \[[Paper](https://www.nature.com/articles/s41467-025-68070-z)\]**   
