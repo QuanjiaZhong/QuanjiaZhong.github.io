@@ -126,7 +126,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
       **Topics**： Tropical cyclone precipitation
   	
 **Graduates**:
-1.	👨‍🎓**Songjiang Feng**<sup>1</sup>, M.S., Jiangxi University of Science and Technology (2020–2023)
+1.	👨‍🎓**Songjiang Feng**<sup>1</sup>, M.S., Jiangxi University of Science and Technology (2020–2023)   
       **Dissertation**:Ensemble Forecast Bias Correction Based on Machine Learning methods
 2.	
 
