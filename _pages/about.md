@@ -39,9 +39,12 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 
 # 💻 Professional Experience
-- *2023.11 - Present*, Postdoctoral Fellow, Hong Kong University of Science and Technology.
-- *2020.05 - 2023.10*, Postdoctoral Fellow, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS).
-- *2020.10 - 2021.05*, Research Assistant, City University of Hong Kong.
+- *2023.11 - Present*, Postdoctoral Fellow, Hong Kong University of Science and Technology.  
+  **Advisor**: Prof. Jianping Gan and Prof. Johnny C. L. Chan  
+- *2020.05 - 2023.10*, Postdoctoral Fellow, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS).  
+  **Advisor**: Prof. Wansuo Duan and Prof. Ruiqiang Ding  
+- *2020.10 - 2021.05*, Research Assistant, City University of Hong Kong.  
+  **Advisor**: Prof. Prof. Johnny C. L. Chan (**AMS Fellows**)   
 
   
 # 🎓 Education
