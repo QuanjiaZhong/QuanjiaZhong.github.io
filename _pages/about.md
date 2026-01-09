@@ -52,7 +52,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
    **Dissertation**: Predictability and Ensemble Prediction of Tropical Cyclones over the Western North Pacific   
    **Advisor**: Prof. Ruiqiang Ding   
 - *2018.10 - 2019.10*, Visiting Student, School of Meteorology, University of Oklahoma, USA.   
-   **Advisor**: Prof. Xuguang Wang (AMS Fellows)
+   **Advisor**: Prof. Xuguang Wang (**AMS Fellows**)  
 - *2013.09 - 2016.06*, M.S., Atmospheric Sciences, College of Meteorology and Oceanography, PLA University of Science and Technology, China.   
    **Dissertation**: Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track   
    **Advisor**: Prof. Lifeng Zhang   
