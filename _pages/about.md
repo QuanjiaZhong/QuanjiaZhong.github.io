@@ -104,6 +104,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 1.	**Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Jianping Li and Ruiqiang Ding, 2025: **Landward acceleration of tropical cyclones making landfall along the South China coast**. To be submitted to Geophysical Research Letters, Under review.
 2.	Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong***, and Ruiqiang Ding, 2025: **Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories**. Submitted to Science Advance, Under review.
 
+
 # 🗣️ Conferences Workshops
 - **Quanjia Zhong** Has tropical cyclone track prediction reached the predictability limit? Asia Oceania Geosciences Society (AOGS) 22th Annual Meeting. 26 July to 2 August 2025 Singapore, Singapore. (**Invited Talk**) 
 - **Quanjia Zhong** Land-sea contrast leading to a speedup of landfalling tropical cyclones. Asia Oceania Geosciences Society (AOGS) 21th Annual Meeting. 22 to 28 June 2024 Pyeongchang, South Korea. (**Invited Talk**)
@@ -118,6 +119,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 **Editorial Board**:
 - 海洋气象学报 青年编委（2025-2027）
+
 
 # 🧑‍🎓 Group Members
 **Students**:
