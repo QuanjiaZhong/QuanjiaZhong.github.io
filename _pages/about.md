@@ -40,7 +40,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 # 💻 Professional Experience
 - *2023.11 - Present*, Postdoctoral Fellow, Hong Kong University of Science and Technology.  
-  **Advisor**: Prof. Jianping Gan and Prof. Johnny C. L. Chan  
+  **Advisor**: Prof. Jianping Gan and Prof. Johnny C. L. Chan (**AMS Fellows**)  
 - *2020.05 - 2023.10*, Postdoctoral Fellow, Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences (CAS).  
   **Advisor**: Prof. Wansuo Duan and Prof. Ruiqiang Ding  
 - *2020.10 - 2021.05*, Research Assistant, City University of Hong Kong.  
@@ -62,14 +62,6 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 # 🏧 Funded Grants
 - *Sole PI* “Predictability of Tropical Cyclone Intensity and Its Influence Mechanism”, National Natural Science Foundation of China (NSFC), 01/01/2022-12/31/2024.
 - *Sole PI* “Application of the Nonlinear Local Lyapunov Vectors in the Tropical Cyclone Ensemble prediction”, Shanghai Typhoon Research Fund, 11/01/2021-12/31/2023.
-
-
-# 🗣️ Conferences, Workshops and Symposia
-- Has tropical cyclone track prediction reached the predictability limit? Asia Oceania Geosciences Society (AOGS) 22th Annual Meeting. 26 July to 2 August 2025 Singapore, Singapore. (**Invited Talk**) 
-- Land-sea contrast leading to a speedup of landfalling tropical cyclones. Asia Oceania Geosciences Society (AOGS) 21th Annual Meeting. 22 to 28 June 2024 Pyeongchang, South Korea. (**Invited Talk**)
-- Impact of the low wavenumber structure in the initial vortex wind analyses on the prediction of the intensification of Hurricane Patricia (2015). The 28th International Union of Geodesy and Geophysics (IUGG) General Assembly. 11 to 20 July 2023 Berlin, Germany. (Poster)
-- Predictability of Tropical Cyclone Intensity over the Western North Pacific using the IBTrACS dataset. European Geosciences Union (EGU) General Assembly. 8 to 14 April 2018 Vienna, Austria. (Poster)
-- Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track. Asia Oceania Geosciences Society (AOGS) 12th Annual Meeting. 2 to 7 August 2015 Singapore. (Oral)
 
 
 # 🌟 Research Highlights
@@ -112,14 +104,20 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 1.	**Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Jianping Li and Ruiqiang Ding, 2025: **Landward acceleration of tropical cyclones making landfall along the South China coast**. To be submitted to Geophysical Research Letters, Under review.
 2.	Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong***, and Ruiqiang Ding, 2025: **Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories**. Submitted to Science Advance, Under review.
 
+# 🗣️ Conferences and Workshops
+- **Quanjia Zhong** Has tropical cyclone track prediction reached the predictability limit? Asia Oceania Geosciences Society (AOGS) 22th Annual Meeting. 26 July to 2 August 2025 Singapore, Singapore. (**Invited Talk**) 
+- **Quanjia Zhong** Land-sea contrast leading to a speedup of landfalling tropical cyclones. Asia Oceania Geosciences Society (AOGS) 21th Annual Meeting. 22 to 28 June 2024 Pyeongchang, South Korea. (**Invited Talk**)
+- **Quanjia Zhong** Impact of the low wavenumber structure in the initial vortex wind analyses on the prediction of the intensification of Hurricane Patricia (2015). The 28th International Union of Geodesy and Geophysics (IUGG) General Assembly. 11 to 20 July 2023 Berlin, Germany. (Poster)
+- **Quanjia Zhong** Predictability of Tropical Cyclone Intensity over the Western North Pacific using the IBTrACS dataset. European Geosciences Union (EGU) General Assembly. 8 to 14 April 2018 Vienna, Austria. (Poster)
+- **Quanjia Zhong** Application of the Nonlinear Local Lyapunov Exponent in Studies of the Predictability of Tropical Cyclone Track. Asia Oceania Geosciences Society (AOGS) 12th Annual Meeting. 2 to 7 August 2015 Singapore. (Oral)
 
-# 🛎️ Service
+
+# 🛎️ Professional Activities
 **Invited Journal Reviewer**:
 - Environmental Research Letters, Journal of Geophysical Research: Atmospheres, Journal Climate, Climate Dynamic, Meteorological Applications, Remote Sensing, Atmospheres, Chinese Journal of the Atmospheric Sciences, Transactions of Atmospheric Sciences
 
-**Editorial board**:
+**Editorial Board**:
 - 海洋气象学报 青年编委（2025-2027）
-
 
 # 🧑‍🎓 Group Members
 **Students**:
