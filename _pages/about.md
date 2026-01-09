@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a postdoctoral fellow in the Department of Ocean Science at Hong Kong University of Science and Technology, jointly advised by Prof. [Johnny C. L. Chan](https://www.cityu.edu.hk/see/people/prof-johnny-c-l-chan) and Prof. [Jianping Gan](https://www.math.hkust.edu.hk/people/faculty/profile/magan/). Prior to joining HKUST, I conducted postdoctoral research at the Institute of Atmospheric Physics, Chinese Academy of Sciences, under the supervision of Prof. Ruiqiang Ding and Prof. [Wansuo Duan](https://labesm-staff.iap.ac.cn/duanws/index/article/index/arid/1.html). I completed my Ph.D. at the Institute of Atmospheric Physics (IAP), Chinese Academy of Sciences, under the supervision of Prof. [Ruiqiang Ding](https://geot.bnu.edu.cn/Public/htm/news/5/1028.html) and Prof. [Xuguang Wang](https://www.ou.edu/ags/meteorology/people/faculty/xuguang-wang). I received my master’s degree from the PLA University of Science and Technology, advised by Prof. Lifeng Zhang, and my bachelor’s degree from Guangdong Ocean University.
 
-# 📝 My research interests include:
+# 🛠️ My research interests include:
 1. **Atmospheric predictability**: quantifying the predictability limits of tropical cyclones.
 2. **Ensemble forecasting**: developing an ensemble prediction system based on the WRF model.
 2. **Tropical cyclones dynamics**: offering new physical insights into TC behavior.
@@ -120,4 +120,16 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 **Editorial board**:
 - 海洋气象学报 青年编委（2025-2027）
 
-# 📖 Graduate Students
+# 🧑‍🎓 Group Members
+
+**Students**:
+1.	👨‍🎓**Songjiang Feng**<sup>3</sup>, PhD student, Beijing Normal University (2024–present)
+2.	👨‍🎓**Xiangdong Xu**<sup>2</sup>, M.S. student, East China Normal University (2025–present)
+
+**Graduates**:
+1.	👨‍🎓**Songjiang Feng**<sup>1</sup>, M.S., Jiangxi University of Science and Technology (2020–2023)
+
+**Notes**:  
+1. Co-supervision with Prof. Junfeng Kang  
+2. Co-supervision with Prof. Tian Xia  
+3. Co-supervision with Prof. Ruiqiang Ding
