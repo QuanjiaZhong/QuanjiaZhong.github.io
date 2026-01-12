@@ -101,8 +101,8 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 18. Yujie Liu, Yang Li, Ruiqiang Ding, <strong>Quanjia Zhong</strong>&ast;, and Shifei Tu (2023). Differences in precipitation characteristics before and after rapid intensification of tropical cyclones over the western North Pacific Ocean (in Chinese). Journal of Guangdong Ocean University, 43(3), 1–9.
 
 ## Authorized invention patent
-1. **Quanjia Zhong**, Ruiqiang Ding, 2024. Method for Generating Ensemble Initial Perturbations of Regional Numerical Models and Forecasting System: 202310381547X
-2. 
+1. **Quanjia Zhong**, Ruiqiang Ding, 2024. Method for Generating Ensemble Initial Perturbations of Regional Numerical Models and Forecasting System. Chinese Patent 202310381547X
+2. Mengjiao Du,  **Quanjia Zhong**, Ruixue Liu, et al. (2024). A method, apparatus, and electronic device for predicting tropical cyclone arrival time. Chinese Patent ZL202210579120.6.
 
 ## Preprints
 1.	**Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Jianping Li and Ruiqiang Ding, 2025: **Landward acceleration of tropical cyclones making landfall along the South China coast**. Submitted to Geophysical Research Letters, **Minor revision**.
