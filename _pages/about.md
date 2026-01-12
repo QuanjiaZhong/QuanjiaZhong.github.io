@@ -81,7 +81,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 ## Publications
 **Notes**: Corresponding authors denoted with “*”
-1.	Johnny C. L. Chan*, <strong>Quanjia Zhong</strong>&ast;, 2025: Changes in Track Characteristics of Tropical Cyclones Near Landfall: A Review. Advances in Atmospheric Sciences, In press. （JCR: Q1）
+1.	Johnny C. L. Chan&ast;, <strong>Quanjia Zhong</strong>&ast;, 2025: Changes in Track Characteristics of Tropical Cyclones Near Landfall: A Review. Advances in Atmospheric Sciences, In press. （JCR: Q1）
 2.	Ming Zhang, <strong>Quanjia Zhong</strong>&ast;, Ruiqiang Ding&ast;, and Tao Wen, 2025: Unraveling the Anisotropic Pattern of Track Uncertainty in Tropical Cyclones. Environmental Research Letters, In press. （JCR: Q1）
 3.	Tao Wen, Jianping Li, Shifei Tu, Ruiqiang Ding&ast;, <strong>Quanjia Zhong</strong>&ast;, and Xumin Li (2025). Modulation of western North Pacific tropical cyclone decadal variability by the Victoria mode. Environmental Research Letters, 20(3), 034003. （JCR: Q1）
 4.	Tao Wen, Jianping Li, Shifei Tu, <strong>Quanjia Zhong</strong>&ast;, Ruiqiang Ding&ast;, and Ming Zhang, 2025: Asymmetric Influence of the North Pacific Victoria Mode on Intense Tropical Cyclone Formation in the Western North Pacific. Journal of Geophysical Research: Oceans, 130, e2025JC022505. （JCR: Q1）
