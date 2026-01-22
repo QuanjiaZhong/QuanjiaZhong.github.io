@@ -34,7 +34,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 - *2025.11*: 🎉 One paper was accepted by **Geophysical Research Letters**
 - *2025.09*: 🎉 One paper was accepted by **Nature Geoscience**.
 - *2025.09*: 🎉 Welcome **Xiangdong Xu** to join the group!
-- *2024.08*: 🎉 One paper was awarded the **“Wiley China Excellent Author Program”** recognition.
+- *2024.08*: 🎉 One paper received the **“Wiley China Excellent Author Program”** recognition.
 - *2024.06*: 🎉 Congratulations to **Songjiang Feng** on his PhD admission at Beijing Normal University!
 - *2023.11*: 🎉 Join ODMP@HKUST as Postdoctoral Fellow.
 
