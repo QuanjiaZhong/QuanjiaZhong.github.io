@@ -29,6 +29,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 
 # 🔥 News
+- *2026.01*: 🎉 One paper received the **Outstanding Young Paper Award** at the 6th Congress of China Geodesy and Geophysics (CCGG).
 - *2025.12*: 🎉 Recipient of the **Outstanding Application Award of the GuangZhou Supercomputer (2025)**.
 - *2025.11*: 🎉 One paper was accepted by **Nature Communications**.
 - *2025.11*: 🎉 One paper was accepted by **Geophysical Research Letters**
@@ -70,7 +71,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 # 📝 Publications 
 ## Selected Publications
-1.	**Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Jianping Li, Jianping Gan and Ruiqiang Ding, 2026：Landfalling tropical cyclones accelerate due to land–sea thermal and roughness contrasts. ***Nature Geoscience***, In press. \[[**Paper**](https://doi.org/10.1038/s41561-025-01891-1)\]
+1.	**Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Jianping Li, Jianping Gan and Ruiqiang Ding, 2026：Landfalling tropical cyclones accelerate due to land–sea thermal and roughness contrasts. ***Nature Geoscience***, In press. **Outstanding Young Paper Award at the 6th Congress of China Geodesy and Geophysics (CCGG)** \[[**Paper**](https://doi.org/10.1038/s41561-025-01891-1)\] 
 2.	**Quanjia Zhong**, Jianping Gan, Shifei Tu, Raft Toumi, Johnny C. L. Chan, 2026：Global Increase in Rain Rate of Tropical Cyclones Prior to Landfall. ***Nature Communications***, 17(114): 1-9. \[[**Paper**](https://www.nature.com/articles/s41467-025-68070-z)\]
 3.	**Quanjia Zhong**, Jianping Gan, Donglei Shi, Shifei Tu, Johnny C. L. Chan, 2026：Do Tropical Cyclones Have a Steady Translation Under a Uniform Steering Flow? ***Geophysical Research Letters***, 53, e2025GL119479. \[[**Paper**](http://dx.doi.org/10.1029/2025GL119479)\]
 4.	**Quanjia Zhong**, Xuguang Wang, Ruiqiang Ding, Xu Lu, Wansuo Duan, and Yongjie Huang, 2023：Impact of the low wavenumber structure in the initial vortex wind analyses on the prediction of the intensification of Hurricane Patricia (2015). ***Journal of Geophysical Research: Atmospheres***, 128, e2022JD037082. \[[**Paper**](https://doi.org/10.1029/2022JD037082)\]
