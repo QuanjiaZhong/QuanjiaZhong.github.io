@@ -61,7 +61,12 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 - *2009.09 - 2013.06*, B.S., Atmospheric Sciences, College of Ocean and Meteorology, Guangdong Ocean University, China.   
 
 
-# 🏧 Funded Grants
+# 🏆 Award And Honors
+- *2026.01*: **Outstanding Young Paper Award** at the 6th Congress of China Geodesy and Geophysics (CCGG).
+- *2025.12*: **Outstanding Application Award of the GuangZhou Supercomputer (2025)**.
+- *2024.11*: Center for Ocean Research in Hong Kong and Macau (CORE) **Postdoctoral Fellowship Scheme (PDFS) Award**.
+
+- # 🏧 Funded Grants
 - *Sole PI* “Predictability of Tropical Cyclone Intensity and Its Influence Mechanism”, National Natural Science Foundation of China (NSFC), 01/01/2022-12/31/2024.
 - *Sole PI* “Application of the Nonlinear Local Lyapunov Vectors in the Tropical Cyclone Ensemble prediction”, Shanghai Typhoon Research Fund, 11/01/2021-12/31/2023.
 
