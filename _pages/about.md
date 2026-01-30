@@ -85,7 +85,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 ## Publications
 **Notes**: Corresponding authors denoted with “#”   
 
-6. **Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Yongjie Huang and Ruiqiang Ding, 2025: Landward acceleration of tropical cyclones making landfall along the South China coast. Submitted to *Geophysical Research Letters*, **Acceptance**.
+6. **Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Yongjie Huang and Ruiqiang Ding, 2026: Landward acceleration of tropical cyclones making landfall along the South China coast. Submitted to *Geophysical Research Letters*, **Acceptance**.
 7.	Johnny C. L. Chan#, **Quanjia Zhong**#, 2026: Changes in Track Characteristics of Tropical Cyclones Near Landfall: A Review. Advances in Atmospheric Sciences, In press. （JCR: Q1）
 8. Ming Zhang, **Quanjia Zhong**#, Ruiqiang Ding#, and Tao Wen, 2025: Unraveling the Anisotropic Pattern of Track Uncertainty in Tropical Cyclones. Environmental Research Letters, In press. （JCR: Q1）
 9. Tao Wen, Jianping Li, Shifei Tu, Ruiqiang Ding#, **Quanjia Zhong**#, and Xumin Li, 2025. Modulation of western North Pacific tropical cyclone decadal variability by the Victoria mode. Environmental Research Letters, 20(3), 034003. （JCR: Q1）
