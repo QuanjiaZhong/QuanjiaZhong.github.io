@@ -29,6 +29,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 
 # 🔥 News
+- *2026.01*: 🎉 One paper was accepted by **Geophysical Research Letters**
 - *2026.01*: 🎉 One paper received the **Outstanding Young Paper Award** at the 6th Congress of China Geodesy and Geophysics (CCGG).
 - *2025.12*: 🎉 Recipient of the **Outstanding Application Award of the GuangZhou Supercomputer (2025)**.
 - *2025.11*: 🎉 One paper was accepted by **Nature Communications**.
