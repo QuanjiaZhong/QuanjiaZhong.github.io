@@ -85,31 +85,30 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 ## Publications
 **Notes**: Corresponding authors denoted with “#”   
 
-6.	Johnny C. L. Chan#, **Quanjia Zhong**#, 2026: Changes in Track Characteristics of Tropical Cyclones Near Landfall: A Review. Advances in Atmospheric Sciences, In press. （JCR: Q1）
-7. Ming Zhang, **Quanjia Zhong**#, Ruiqiang Ding#, and Tao Wen, 2025: Unraveling the Anisotropic Pattern of Track Uncertainty in Tropical Cyclones. Environmental Research Letters, In press. （JCR: Q1）
-8. Tao Wen, Jianping Li, Shifei Tu, Ruiqiang Ding#, **Quanjia Zhong**#, and Xumin Li, 2025. Modulation of western North Pacific tropical cyclone decadal variability by the Victoria mode. Environmental Research Letters, 20(3), 034003. （JCR: Q1）
-9. Tao Wen, Jianping Li, Shifei Tu, **Quanjia Zhong**#, Ruiqiang Ding#, and Ming Zhang, 2025: Asymmetric Influence of the North Pacific Victoria Mode on Intense Tropical Cyclone Formation in the Western North Pacific. Journal of Geophysical Research: Oceans, 130, e2025JC022505. （JCR: Q1）
-10. Shifei Tu, Ziyan Deng, **Quanjia Zhong**#, Mei Liang#, and Jianjun Xu, 2025: Northwestward Shifts in the Location of Genesis Reduces the Lifetime of Landfalling Tropical Cyclones in China. Scientific Reports, 15(1), 28764. （JCR: Q1）
-11. **Quanjia Zhong**, Xu Lu, Xuguang Wang, Ruiqiang Ding, Wansuo Duan, and Zhaolu Hou (2023). Role of the thermodynamic structure of the inner core in predicting the intensification of Hurricane Patricia (2015). Journal of Geophysical Research: Atmospheres, 128(15), e2023JD038645. （JCR: Q1）
-12. Deyu Lu, Ruiqiang Ding, **Quanjia Zhong**#, Jiangyu Mao, and Jianping Li (2023). A rapid intensification warning index for tropical cyclones based on the analog method. Geophysical Research Letters, 50, e2022GL101951. （JCR: Q1）
-13. **Quanjia Zhong**, Lifeng Zhang, Jianping Li, Ruiqiang Ding, and Jie Feng (2018). Estimating the predictability limit of tropical cyclone tracks over the western North Pacific using observational data. Advances in Atmospheric Sciences, 35(12), 1491–1504. （JCR: Q1）
-14. Ming Zhang, Ruiqiang Ding#, **Quanjia Zhong**#, Jianping Li, and Deyu Lu (2024). Application of the conditional nonlinear local Lyapunov exponent to second-kind predictability. Advances in Atmospheric Sciences, 41(9), 1769–1786. （JCR: Q1）
-15. Songjiang Feng, Yan Tan, Junfeng Kang, **Quanjia Zhong**#, Yanjie Li, and Ruiqiang Ding# (2023). Bias correction of tropical cyclone intensity forecasts using the XGBoost method. Weather and Forecasting, 39(2), 323–332. （JCR: Q2）
-16. Deyu Lu, Ruiqiang Ding, Jiangyu Mao, and **Quanjia Zhong**# (2023). Comparison of different global ensemble prediction systems for tropical cyclone intensity forecasting. Atmospheric Science Letters, 25(4), e1207. （JCR: Q3） **Wiley China Excellent Author Program recognition**
-17. Junfeng Kang, Songjiang Feng, Qian Zou, Ruiqiang Ding, and **Quanjia Zhong**# (2022). Machine learning-based method of correcting nonlinear local Lyapunov vectors ensemble forecasting (in Chinese). Acta Physica Sinica, 71(8), 080503. （JCR: Q3）
-18. **Quanjia Zhong**, Jianping Li, Shuwen Li, Yuan Wang, Ruiqiang Ding, and Lifeng Zhang (2021). Influence of sea surface temperature on the predictability of idealized tropical cyclone intensity. Journal of Tropical Meteorology, 27, 355–367. （JCR: Q4）
-19. **Quanjia Zhong**, Lifeng Zhang, Ruiqiang Ding, and Jianhuang Qin (2016). The variation of summer precipitation in South China and its relationship with SST anomalies in the tropical Pacific (in Chinese). Advances in Climate Change Research, 12(1), 28–36.
-20. Mengjiao Du, Ruixin Liu, **Quanjia Zhong**#, Xiang Li, and Kan Yi (2023). Study and application on the method of estimating disaster warning time for offshore wind farms based on tropical cyclone radius (in Chinese). Marine Forecasts, 40(3), 66–74.
-21. Yujie Liu, Yang Li, Ruiqiang Ding, **Quanjia Zhong**#, and Shifei Tu (2023). Differences in precipitation characteristics before and after rapid intensification of tropical cyclones over the western North Pacific Ocean (in Chinese). Journal of Guangdong Ocean University, 43(3), 1–9.
+6. **Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Jianping Li and Ruiqiang Ding, 2025: Landward acceleration of tropical cyclones making landfall along the South China coast. Submitted to *Geophysical Research Letters*, **Acceptance**.
+7.	Johnny C. L. Chan#, **Quanjia Zhong**#, 2026: Changes in Track Characteristics of Tropical Cyclones Near Landfall: A Review. Advances in Atmospheric Sciences, In press. （JCR: Q1）
+8. Ming Zhang, **Quanjia Zhong**#, Ruiqiang Ding#, and Tao Wen, 2025: Unraveling the Anisotropic Pattern of Track Uncertainty in Tropical Cyclones. Environmental Research Letters, In press. （JCR: Q1）
+9. Tao Wen, Jianping Li, Shifei Tu, Ruiqiang Ding#, **Quanjia Zhong**#, and Xumin Li, 2025. Modulation of western North Pacific tropical cyclone decadal variability by the Victoria mode. Environmental Research Letters, 20(3), 034003. （JCR: Q1）
+10. Tao Wen, Jianping Li, Shifei Tu, **Quanjia Zhong**#, Ruiqiang Ding#, and Ming Zhang, 2025: Asymmetric Influence of the North Pacific Victoria Mode on Intense Tropical Cyclone Formation in the Western North Pacific. Journal of Geophysical Research: Oceans, 130, e2025JC022505. （JCR: Q1）
+11. Shifei Tu, Ziyan Deng, **Quanjia Zhong**#, Mei Liang#, and Jianjun Xu, 2025: Northwestward Shifts in the Location of Genesis Reduces the Lifetime of Landfalling Tropical Cyclones in China. Scientific Reports, 15(1), 28764. （JCR: Q1）
+12. **Quanjia Zhong**, Xu Lu, Xuguang Wang, Ruiqiang Ding, Wansuo Duan, and Zhaolu Hou (2023). Role of the thermodynamic structure of the inner core in predicting the intensification of Hurricane Patricia (2015). Journal of Geophysical Research: Atmospheres, 128(15), e2023JD038645. （JCR: Q1）
+13. Deyu Lu, Ruiqiang Ding, **Quanjia Zhong**#, Jiangyu Mao, and Jianping Li (2023). A rapid intensification warning index for tropical cyclones based on the analog method. Geophysical Research Letters, 50, e2022GL101951. （JCR: Q1）
+14. **Quanjia Zhong**, Lifeng Zhang, Jianping Li, Ruiqiang Ding, and Jie Feng (2018). Estimating the predictability limit of tropical cyclone tracks over the western North Pacific using observational data. Advances in Atmospheric Sciences, 35(12), 1491–1504. （JCR: Q1）
+15. Ming Zhang, Ruiqiang Ding#, **Quanjia Zhong**#, Jianping Li, and Deyu Lu (2024). Application of the conditional nonlinear local Lyapunov exponent to second-kind predictability. Advances in Atmospheric Sciences, 41(9), 1769–1786. （JCR: Q1）
+16. Songjiang Feng, Yan Tan, Junfeng Kang, **Quanjia Zhong**#, Yanjie Li, and Ruiqiang Ding# (2023). Bias correction of tropical cyclone intensity forecasts using the XGBoost method. Weather and Forecasting, 39(2), 323–332. （JCR: Q2）
+17. Deyu Lu, Ruiqiang Ding, Jiangyu Mao, and **Quanjia Zhong**# (2023). Comparison of different global ensemble prediction systems for tropical cyclone intensity forecasting. Atmospheric Science Letters, 25(4), e1207. （JCR: Q3） **Wiley China Excellent Author Program recognition**
+18. Junfeng Kang, Songjiang Feng, Qian Zou, Ruiqiang Ding, and **Quanjia Zhong**# (2022). Machine learning-based method of correcting nonlinear local Lyapunov vectors ensemble forecasting (in Chinese). Acta Physica Sinica, 71(8), 080503. （JCR: Q3）
+19. **Quanjia Zhong**, Jianping Li, Shuwen Li, Yuan Wang, Ruiqiang Ding, and Lifeng Zhang (2021). Influence of sea surface temperature on the predictability of idealized tropical cyclone intensity. Journal of Tropical Meteorology, 27, 355–367. （JCR: Q4）
+20. **Quanjia Zhong**, Lifeng Zhang, Ruiqiang Ding, and Jianhuang Qin (2016). The variation of summer precipitation in South China and its relationship with SST anomalies in the tropical Pacific (in Chinese). Advances in Climate Change Research, 12(1), 28–36.
+21. Mengjiao Du, Ruixin Liu, **Quanjia Zhong**#, Xiang Li, and Kan Yi (2023). Study and application on the method of estimating disaster warning time for offshore wind farms based on tropical cyclone radius (in Chinese). Marine Forecasts, 40(3), 66–74.
+22. Yujie Liu, Yang Li, Ruiqiang Ding, **Quanjia Zhong**#, and Shifei Tu (2023). Differences in precipitation characteristics before and after rapid intensification of tropical cyclones over the western North Pacific Ocean (in Chinese). Journal of Guangdong Ocean University, 43(3), 1–9.
 
 ## Preprints
-22.	**Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Jianping Li and Ruiqiang Ding, 2025: Landward acceleration of tropical cyclones making landfall along the South China coast. Submitted to *Geophysical Research Letters*, **Minor revision**.
-23.	Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong**#, and Ruiqiang Ding#, 2025: Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories. Submitted to *Communications Earth & Environment*, **Under Review**.
+23. Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong**#, and Ruiqiang Ding#, 2025: Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories. Submitted to *Communications Earth & Environment*, **Under Review**.    
    
 ## Authorized invention patent
 1. **Quanjia Zhong**, Ruiqiang Ding, 2024. Method for Generating Ensemble Initial Perturbations of Regional Numerical Models and Forecasting System. Chinese Patent 202310381547X
 2. Mengjiao Du,  **Quanjia Zhong**, Ruixue Liu, et al. (2024). A method, apparatus, and electronic device for predicting tropical cyclone arrival time. Chinese Patent ZL202210579120.6.
-
 
 # 📝 Conferences Workshops
 
