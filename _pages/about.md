@@ -86,9 +86,9 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 ## Publications
 **Notes**: Corresponding authors denoted with “#”   
 
-6. **Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Yongjie Huang and Ruiqiang Ding, 2026: Landward acceleration of tropical cyclones making landfall along the South China coast. *Geophysical Research Letters*, 53, e2025GL119733. \[[**Paper**](https://doi.org/10.1029/2025GL119733)\]  
+6. **Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Yongjie Huang and Ruiqiang Ding, 2026: Landward acceleration of tropical cyclones making landfall along the South China coast. *Geophysical Research Letters*, 53, e2025GL119733. \[[**Paper**](https://doi.org/10.1029/2025GL119733)\]  （JCR: Q1）
 7.	Johnny C. L. Chan#, **Quanjia Zhong**#, 2026: Changes in Track Characteristics of Tropical Cyclones Near Landfall: A Review. Advances in Atmospheric Sciences, In press. （JCR: Q1）
-8. Ming Zhang, **Quanjia Zhong**#, Ruiqiang Ding#, and Tao Wen, 2025: Unraveling the Anisotropic Pattern of Track Uncertainty in Tropical Cyclones. Environmental Research Letters, In press. （JCR: Q1）
+8. Ming Zhang, **Quanjia Zhong**#, Ruiqiang Ding#, and Tao Wen, 2025: Unraveling the Anisotropic Pattern of Track Uncertainty in Tropical Cyclones. Environmental Research Letters, 20(12): 124080. （JCR: Q1）
 9. Tao Wen, Jianping Li, Shifei Tu, Ruiqiang Ding#, **Quanjia Zhong**#, and Xumin Li, 2025. Modulation of western North Pacific tropical cyclone decadal variability by the Victoria mode. Environmental Research Letters, 20(3), 034003. （JCR: Q1）
 10. Tao Wen, Jianping Li, Shifei Tu, **Quanjia Zhong**#, Ruiqiang Ding#, and Ming Zhang, 2025: Asymmetric Influence of the North Pacific Victoria Mode on Intense Tropical Cyclone Formation in the Western North Pacific. Journal of Geophysical Research: Oceans, 130, e2025JC022505. （JCR: Q1）
 11. Shifei Tu, Ziyan Deng, **Quanjia Zhong**#, Mei Liang#, and Jianjun Xu, 2025: Northwestward Shifts in the Location of Genesis Reduces the Lifetime of Landfalling Tropical Cyclones in China. Scientific Reports, 15(1), 28764. （JCR: Q1）
