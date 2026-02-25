@@ -66,6 +66,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 - *2026.01*: **Outstanding Young Paper Award** at the 6th Congress of China Geodesy and Geophysics (CCGG).
 - *2025.12*: **Outstanding Application Award of the GuangZhou Supercomputer (2025)**.
 - *2024.11*: Center for Ocean Research in Hong Kong and Macau (CORE) **Postdoctoral Fellowship Scheme (PDFS) Award**.
+- *2024.07*: **Wiley China Excellent Author Program** recognition.
 
 - # 🏧 Funded Grants
 - *Sole PI* “Predictability of Tropical Cyclone Intensity and Its Influence Mechanism”, National Natural Science Foundation of China (NSFC), 01/01/2022-12/31/2024.
