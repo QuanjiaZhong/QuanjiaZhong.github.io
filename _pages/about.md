@@ -123,10 +123,11 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 # 🛎️ Professional Activities
 ## Invited Journal Reviewer
-- Advances in Atmospheric Sciences, Environmental Research Letters, Journal of Geophysical Research: Atmospheres,Journal of Geophysical Research: Oceans, Journal Climate, Climate Dynamic, Journal of Meteorological Research, Meteorological Applications, Remote Sensing, Atmospheres, Chinese Journal of the Atmospheric Sciences, Transactions of Atmospheric Sciences
+- Advances in Atmospheric Sciences, Climate Dynamics, Environmental Research Communications, Environmental Research Letters, Geophysical Research Letters, Journal of Climate, Journal of Geophysical Research: Atmospheres, Journal of Geophysical Research: Oceans, Journal of Meteorological Research, Meteorological Applications, Remote Sensing
+- 大气科学(Chinese Journal of the Atmospheric Sciences), 大气科学学报(Transactions of Atmospheric Sciences), 海洋气象学报（Journal of Marine Meteorology）
 
 ## Editorial Board
-- 海洋气象学报 青年编委（2025-2027）
+- 海洋气象学报（Journal of Marine Meteorology） 青年编委（Early Career Editorial Board Member, 2025-2027）
 
 
 # 🧑‍🎓 Group Members
