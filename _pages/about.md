@@ -29,7 +29,8 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 
 # 🔥 News
-- *2026.03*: 🎉 Congratulations to **Quanjia Zhong** on being invited to serve as an Editorial Board Member of **Dynamics of Atmospheres and Oceans**.
+- *2026.03*: 🎉 Congratulations to **Quanjia Zhong** on the invitation to the **Environmental Research Series** Advisory Panel (IOP Publishing.
+- *2026.03*: 🎉 Congratulations to **Quanjia Zhong** on joining the Editorial Board of **Dynamics of Atmospheres and Oceans**.
 - *2026.01*: 🎉 One paper was accepted by **Geophysical Research Letters**
 - *2026.01*: 🎉 One paper received the **Outstanding Young Paper Award** at the 6th Congress of China Geodesy and Geophysics (CCGG).
 - *2025.12*: 🎉 Recipient of the **Outstanding Application Award of the GuangZhou Supercomputer (2025)**.
