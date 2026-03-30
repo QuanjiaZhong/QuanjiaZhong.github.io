@@ -129,10 +129,10 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 - 大气科学(Chinese Journal of the Atmospheric Sciences), 大气科学学报(Transactions of Atmospheric Sciences), 海洋气象学报（Journal of Marine Meteorology）
 
 ## Editorial Board
-- Environmental Research Series (IOP Publishing), Advisory Panel Member (2026-present)
-- Dynamics of Atmospheres and Oceans, Editorial Board Members (2026-present)
-- 海洋气象学报（Journal of Marine Meteorology） 青年编委（Early Career Editorial Board Member, 2025-2027）
-
+- Environmental Research Series(IOP Publishing), Advisory Panel Member(2026-present)
+- Dynamics of Atmospheres and Oceans, Editorial Board Members(2026-present)
+- The Innovation Geoscience, Youth Editor(2025-2027)
+- 海洋气象学报(Journal of Marine Meteorology), 青年编委(Early Career Editorial Board Member, 2025-2027）
 
 # 🧑‍🎓 Group Members
 **Students**:
