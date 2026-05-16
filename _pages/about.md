@@ -29,7 +29,8 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 
 
 # 🔥 News
-- *2026.03*: 🎉 Congratulations to **Quanjia Zhong** on the invitation to the **Environmental Research Series** Advisory Panel (IOP Publishing).
+- *2025.05*: 🎉 Welcome **Kai Deng** to join the group!
+- *2026.04*: 🎉 Congratulations to **Quanjia Zhong** on the invitation to the **Environmental Research Series** Advisory Panel (IOP Publishing).
 - *2026.03*: 🎉 Congratulations to **Quanjia Zhong** on joining the Editorial Board of **Dynamics of Atmospheres and Oceans**.
 - *2026.01*: 🎉 One paper was accepted by **Geophysical Research Letters**
 - *2026.01*: 🎉 One paper received the **Outstanding Young Paper Award** at the 6th Congress of China Geodesy and Geophysics (CCGG).
@@ -138,14 +139,17 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
 **Students**:
 1.	👨‍🎓**Songjiang Feng**<sup>3</sup>, PhD student, Beijing Normal University (2024–present)  
        **Topics**: AI for Predictability and Ensemble Forecasting
-3.	👨‍🎓**Xiangdong Xu**<sup>2</sup>, M.S. student, Central China Normal University (2025–present)  
+2.	👨‍🎓**Xiangdong Xu**<sup>2</sup>, M.S. student, Central China Normal University (2025–present)  
        **Topics**: Tropical cyclone precipitation
-  	
+3.	👨‍🎓**Kai Deng**<sup>2</sup>, M.S. student, Guangdong Ocean University (2026–present)  
+       **Topics**: Tropical cyclone motion dynamic
+  	  	
 **Graduates**:
 1.	👨‍🎓**Songjiang Feng**<sup>1</sup>, M.S., Jiangxi University of Science and Technology (2020–2023)  
        **Dissertation**: Ensemble Forecast Bias Correction Based on Machine Learning methods
 
 **Notes**:  
-1. Co-supervision with Prof. Junfeng Kang  
-2. Co-supervision with Prof. Tian Xia  
-3. Co-supervision with Prof. Ruiqiang Ding
+1. Co-supervision with Prof. **Junfeng Kang**  
+2. Co-supervision with Prof. **Tian Xia**  
+3. Co-supervision with Prof. **Ruiqiang Ding**
+4. Co-supervision with Prof. **Shifei Tu**
