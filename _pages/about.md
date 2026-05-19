@@ -141,7 +141,7 @@ I am currently a postdoctoral fellow in the Department of Ocean Science at Hong 
        **Topics**: AI for Predictability and Ensemble Forecasting
 2.	👨‍🎓**Xiangdong Xu**<sup>2</sup>, M.S. student, Central China Normal University (2025–present)  
        **Topics**: Tropical cyclone precipitation
-3.	👨‍🎓**Kai Deng**<sup>2</sup>, M.S. student, Guangdong Ocean University (2026–present)  
+3.	👨‍🎓**Kai Deng**<sup>4</sup>, M.S. student, Guangdong Ocean University (2026–present)  
        **Topics**: Tropical cyclone motion dynamic
   	  	
 **Graduates**:
