@@ -111,7 +111,8 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 22. Yujie Liu, Yang Li, Ruiqiang Ding, **Quanjia Zhong**#, and Shifei Tu (2023). Differences in precipitation characteristics before and after rapid intensification of tropical cyclones over the western North Pacific Ocean (in Chinese). Journal of Guangdong Ocean University, 43(3), 1–9.
 
 ## Preprints
-23. Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong**#, and Ruiqiang Ding#, 2025: Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories. Submitted to *Communications Earth & Environment*, **Under Review**.    
+23. **Quanjia Zhong**, Jianping Gan, Jun Zhang, Yan Tan, Donglei Shi, Shifei Tu, and Johnny C. L. Chan, 2025: Boundary Layer Processes Modulate Track Shifts in a Landfalling Tropical Cyclone Through Storm Asymmetries. Submitted to *Journal of Geophysical Research: Atmospheres*, **Major Revision**.
+24. Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong**#, and Ruiqiang Ding#, 2025: Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories. Submitted to *Earth's Future*, **Under Review**.    
    
 ## Authorized invention patent
 1. **Quanjia Zhong**, Ruiqiang Ding, 2024. Method for Generating Ensemble Initial Perturbations of Regional Numerical Models and Forecasting System. Chinese Patent 202310381547X
