@@ -29,6 +29,7 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 
 
 # 🔥 News
+- *2026.08*: 🎉 One paper was accepted by **Journal of Geophysical Research - Atmospheres**
 - *2026.06*: 🎉 Congratulations to **Quanjia Zhong** on his promotion to **Research Assistant Professor**!
 - *2025.05*: 🎉 Welcome **Kai Deng** to join the group!
 - *2026.04*: 🎉 Congratulations to **Quanjia Zhong** on the invitation to the **Environmental Research Series** Advisory Panel (IOP Publishing).
