@@ -116,7 +116,7 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 
 23. **Quanjia Zhong**, Jianping Gan, Jun Zhang, Yan Tan, Donglei Shi, Shifei Tu, and Johnny C. L. Chan, 2026: Boundary Layer Processes Modulate Track Shifts in a Landfalling Tropical Cyclone Through Storm Asymmetries. Submitted to *Journal of Geophysical Research: Atmospheres*, **Accepted**.
 24. Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong**#, and Ruiqiang Ding#, 2026: Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories. Submitted to *Earth's Future*, **Major revision**.
-25. Songjiang Feng, Jianping Li, Jie Feng, Xiaowei Huai, Ruiqiang Ding#, and **Quanjia Zhong**#, 2026: AI-driven operational forecasting systems redefine the bounds of weather predictability. Submitted to *npj Climate and Atmospheric Science*, **Under review**.    
+25. Songjiang Feng, Jianping Li, Wansuo Duan, Jie Feng, Fei Xie, Xiaowei Huai, Ruiqiang Ding#, and **Quanjia Zhong**#, 2026: AI-driven operational forecasting systems redefine the bounds of weather predictability. Submitted to *npj Climate and Atmospheric Science*, **Under review**.    
    
 ## Authorized invention patent
 1. **Quanjia Zhong**, Ruiqiang Ding, 2024. Method for Generating Ensemble Initial Perturbations of Regional Numerical Models and Forecasting System. Chinese Patent 202310381547X
