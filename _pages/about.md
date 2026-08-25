@@ -84,6 +84,7 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 
 # 📝 Publications 
 ## Selected Publications
+
 1.	**Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Jianping Li, Jianping Gan and Ruiqiang Ding, 2026：Landfalling tropical cyclones accelerate due to land–sea thermal and roughness contrasts. ***Nature Geoscience***, 1-6. **Outstanding Young Paper Award at the 6th Congress of China Geodesy and Geophysics (CCGG)** \[[**Paper**](https://doi.org/10.1038/s41561-025-01891-1)\] [[**Science and Technology Daily**](https://www.stdaily.com/web/gdxw/2026-02/06/content_471365.html)\]
 2.	**Quanjia Zhong**, Jianping Gan, Shifei Tu, Raft Toumi, Johnny C. L. Chan, 2026：Global Increase in Rain Rate of Tropical Cyclones Prior to Landfall. ***Nature Communications***, 17(114): 1-9. **Outstanding Application Award of the GuangZhou Supercomputer** \[[**Paper**](https://www.nature.com/articles/s41467-025-68070-z)\]
 3.	**Quanjia Zhong**, Jianping Gan, Donglei Shi, Shifei Tu, Johnny C. L. Chan, 2026：Do Tropical Cyclones Have a Steady Translation Under a Uniform Steering Flow? ***Geophysical Research Letters***, 53, e2025GL119479. \[[**Paper**](http://dx.doi.org/10.1029/2025GL119479)\]
@@ -92,6 +93,7 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 
 ## Publications
 **Notes**: Corresponding authors denoted with “#”   
+
 6. **Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Yongjie Huang and Ruiqiang Ding, 2026: Landward acceleration of tropical cyclones making landfall along the South China coast. *Geophysical Research Letters*, 53, e2025GL119733. \[[**Paper**](https://doi.org/10.1029/2025GL119733)\]  (JCR: Q1)
 7.	Johnny C. L. Chan#, **Quanjia Zhong**#, 2026: Changes in Track Characteristics of Tropical Cyclones Near Landfall: A Review. Advances in Atmospheric Sciences, 1-9. (JCR: Q1)
 8. Ming Zhang, **Quanjia Zhong**#, Ruiqiang Ding#, and Tao Wen, 2025: Unraveling the Anisotropic Pattern of Track Uncertainty in Tropical Cyclones. Environmental Research Letters, 20(12): 124080. (JCR: Q1)
@@ -111,6 +113,7 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 22. Yujie Liu, Yang Li, Ruiqiang Ding, **Quanjia Zhong**#, and Shifei Tu (2023). Differences in precipitation characteristics before and after rapid intensification of tropical cyclones over the western North Pacific Ocean (in Chinese). Journal of Guangdong Ocean University, 43(3), 1–9.
 
 ## Preprints
+
 23. **Quanjia Zhong**, Jianping Gan, Jun Zhang, Yan Tan, Donglei Shi, Shifei Tu, and Johnny C. L. Chan, 2026: Boundary Layer Processes Modulate Track Shifts in a Landfalling Tropical Cyclone Through Storm Asymmetries. Submitted to *Journal of Geophysical Research: Atmospheres*, **Accepted**.
 24. Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong**#, and Ruiqiang Ding#, 2026: Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories. Submitted to *Earth's Future*, **Major revision**.
 25. Songjiang Feng, Jianping Li, Jie Feng, Xiaowei Huai, Ruiqiang Ding#, and **Quanjia Zhong**#, 2026: AI-driven operational forecasting systems redefine the bounds of weather predictability. Submitted to *npj Climate and Atmospheric Science*, **Under review**.    
