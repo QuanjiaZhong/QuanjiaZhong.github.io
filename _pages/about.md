@@ -92,7 +92,6 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 
 ## Publications
 **Notes**: Corresponding authors denoted with “#”   
-
 6. **Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Yongjie Huang and Ruiqiang Ding, 2026: Landward acceleration of tropical cyclones making landfall along the South China coast. *Geophysical Research Letters*, 53, e2025GL119733. \[[**Paper**](https://doi.org/10.1029/2025GL119733)\]  (JCR: Q1)
 7.	Johnny C. L. Chan#, **Quanjia Zhong**#, 2026: Changes in Track Characteristics of Tropical Cyclones Near Landfall: A Review. Advances in Atmospheric Sciences, 1-9. (JCR: Q1)
 8. Ming Zhang, **Quanjia Zhong**#, Ruiqiang Ding#, and Tao Wen, 2025: Unraveling the Anisotropic Pattern of Track Uncertainty in Tropical Cyclones. Environmental Research Letters, 20(12): 124080. (JCR: Q1)
@@ -112,15 +111,16 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 22. Yujie Liu, Yang Li, Ruiqiang Ding, **Quanjia Zhong**#, and Shifei Tu (2023). Differences in precipitation characteristics before and after rapid intensification of tropical cyclones over the western North Pacific Ocean (in Chinese). Journal of Guangdong Ocean University, 43(3), 1–9.
 
 ## Preprints
-23. **Quanjia Zhong**, Jianping Gan, Jun Zhang, Yan Tan, Donglei Shi, Shifei Tu, and Johnny C. L. Chan, 2025: Boundary Layer Processes Modulate Track Shifts in a Landfalling Tropical Cyclone Through Storm Asymmetries. Submitted to *Journal of Geophysical Research: Atmospheres*, **Major Revision**.
-24. Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong**#, and Ruiqiang Ding#, 2025: Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories. Submitted to *Earth's Future*, **Under Review**.    
+23. **Quanjia Zhong**, Jianping Gan, Jun Zhang, Yan Tan, Donglei Shi, Shifei Tu, and Johnny C. L. Chan, 2026: Boundary Layer Processes Modulate Track Shifts in a Landfalling Tropical Cyclone Through Storm Asymmetries. Submitted to *Journal of Geophysical Research: Atmospheres*, **Accepted**.
+24. Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong**#, and Ruiqiang Ding#, 2026: Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories. Submitted to *Earth's Future*, **Major revision**.
+25. Songjiang Feng, Jianping Li, Jie Feng, Xiaowei Huai, Ruiqiang Ding#, and **Quanjia Zhong**#, 2026: AI-driven operational forecasting systems redefine the bounds of weather predictability. Submitted to *npj Climate and Atmospheric Science*, **Under review**.    
    
 ## Authorized invention patent
 1. **Quanjia Zhong**, Ruiqiang Ding, 2024. Method for Generating Ensemble Initial Perturbations of Regional Numerical Models and Forecasting System. Chinese Patent 202310381547X
 2. Mengjiao Du,  **Quanjia Zhong**, Ruixue Liu, et al. (2024). A method, apparatus, and electronic device for predicting tropical cyclone arrival time. Chinese Patent ZL202210579120.6.
 
 # 📝 Conferences Workshops
-
+- **Quanjia Zhong** Global Increase in Rain Rate of Tropical Cyclones Prior to Landfall Asia Oceania Geosciences Society (AOGS) 23th Annual Meeting. 2 August to 8 August 2026 Fukuoka, Japan. (**Invited Talk**) 
 - **Quanjia Zhong** Has tropical cyclone track prediction reached the predictability limit? Asia Oceania Geosciences Society (AOGS) 22th Annual Meeting. 26 July to 2 August 2025 Singapore, Singapore. (**Invited Talk**) 
 - **Quanjia Zhong** Land-sea contrast leading to a speedup of landfalling tropical cyclones. Asia Oceania Geosciences Society (AOGS) 21th Annual Meeting. 22 to 28 June 2024 Pyeongchang, South Korea. (**Invited Talk**)
 - **Quanjia Zhong** Impact of the low wavenumber structure in the initial vortex wind analyses on the prediction of the intensification of Hurricane Patricia (2015). The 28th International Union of Geodesy and Geophysics (IUGG) General Assembly. 11 to 20 July 2023 Berlin, Germany. (Poster)
