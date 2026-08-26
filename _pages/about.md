@@ -133,7 +133,7 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 
 # 🛎️ Professional Activities
 ## Invited Journal Reviewer
-- Advances in Atmospheric Sciences, Climate Dynamics, Environmental Research Communications, Environmental Research Letters (IOP Publishing Trusted Reviewer),Earth and Space Science, Geophysical Research Letters, Journal of Advances in Modeling Earth Systems, Journal of Climate, Journal of Geophysical Research: Atmospheres, Journal of Geophysical Research: Oceans, Journal of Meteorological Research, Meteorological Applications, Nature, npj Natural Hazards, Remote Sensing, Scientific Reports
+- Nature, Advances in Atmospheric Sciences, Climate Dynamics, Environmental Research Communications, Environmental Research Letters (IOP Publishing Trusted Reviewer),Earth and Space Science, Geophysical Research Letters, Journal of Advances in Modeling Earth Systems, Journal of Climate, Journal of Geophysical Research: Atmospheres, Journal of Geophysical Research: Oceans, Journal of Meteorological Research, International Journal of Climatology, Meteorological Applications, npj Natural Hazards, Remote Sensing, Scientific Reports
 - 大气科学(Chinese Journal of the Atmospheric Sciences), 大气科学学报(Transactions of Atmospheric Sciences), 海洋气象学报（Journal of Marine Meteorology）
 
 ## Editorial Board
