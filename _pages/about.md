@@ -95,8 +95,8 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 **Notes**: Corresponding authors denoted with “#”   
 
 6. **Quanjia Zhong**, Johnny C. L. Chan, Wansuo Duan, Shifei Tu, Yongjie Huang and Ruiqiang Ding, 2026: Landward acceleration of tropical cyclones making landfall along the South China coast. *Geophysical Research Letters*, 53, e2025GL119733. (JCR: Q1)
-7.**Quanjia Zhong**, Jianping Gan, Jun Zhang, Yan Tan, Donglei Shi, Shifei Tu, and Johnny C. L. Chan, 2026: Boundary Layer Processes Modulate Track Shifts in a Landfalling Tropical Cyclone Through Storm Asymmetries. *Journal of Geophysical Research: Atmospheres*, 131(18): e2026JD047387. (JCR: Q1)
-8.Johnny C. L. Chan#, **Quanjia Zhong**#, 2026: Changes in Track Characteristics of Tropical Cyclones Near Landfall: A Review. Advances in Atmospheric Sciences, 1-9. (JCR: Q1)
+7. **Quanjia Zhong**, Jianping Gan, Jun Zhang, Yan Tan, Donglei Shi, Shifei Tu, and Johnny C. L. Chan, 2026: Boundary Layer Processes Modulate Track Shifts in a Landfalling Tropical Cyclone Through Storm Asymmetries. *Journal of Geophysical Research: Atmospheres*, 131(18): e2026JD047387. (JCR: Q1)
+8. Johnny C. L. Chan#, **Quanjia Zhong**#, 2026: Changes in Track Characteristics of Tropical Cyclones Near Landfall: A Review. Advances in Atmospheric Sciences, 1-9. (JCR: Q1)
 9. Ming Zhang, **Quanjia Zhong**#, Ruiqiang Ding#, and Tao Wen, 2025: Unraveling the Anisotropic Pattern of Track Uncertainty in Tropical Cyclones. Environmental Research Letters, 20(12): 124080. (JCR: Q1)
 10. Tao Wen, Jianping Li, Shifei Tu, Ruiqiang Ding#, **Quanjia Zhong**#, and Xumin Li, 2025. Modulation of western North Pacific tropical cyclone decadal variability by the Victoria mode. Environmental Research Letters, 20(3), 034003. (JCR: Q1)
 11. Tao Wen, Jianping Li, Shifei Tu, **Quanjia Zhong**#, Ruiqiang Ding#, and Ming Zhang, 2025: Asymmetric Influence of the North Pacific Victoria Mode on Intense Tropical Cyclone Formation in the Western North Pacific. Journal of Geophysical Research: Oceans, 130, e2025JC022505. (JCR: Q1)
@@ -112,11 +112,9 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 21. **Quanjia Zhong**, Lifeng Zhang, Ruiqiang Ding, and Jianhuang Qin (2016). The variation of summer precipitation in South China and its relationship with SST anomalies in the tropical Pacific (in Chinese). Advances in Climate Change Research, 12(1), 28–36.
 22. Mengjiao Du, Ruixin Liu, **Quanjia Zhong**#, Xiang Li, and Kan Yi (2023). Study and application on the method of estimating disaster warning time for offshore wind farms based on tropical cyclone radius (in Chinese). Marine Forecasts, 40(3), 66–74.
 23. Yujie Liu, Yang Li, Ruiqiang Ding, **Quanjia Zhong**#, and Shifei Tu (2023). Differences in precipitation characteristics before and after rapid intensification of tropical cyclones over the western North Pacific Ocean (in Chinese). Journal of Guangdong Ocean University, 43(3), 1–9.
-
 ## Preprints
-
-23. Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong**#, and Ruiqiang Ding#, 2026: Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories. Submitted to *Earth's Future*, **Major revision**.
-24. Songjiang Feng, Jianping Li, Wansuo Duan, Jie Feng, Fei Xie, Xiaowei Huai, Ruiqiang Ding#, and **Quanjia Zhong**#, 2026: AI-driven operational forecasting systems redefine the bounds of weather predictability. Submitted to *npj Climate and Atmospheric Science*, **Under review**.    
+25. Rui Wang, Karthik Balaguru, Jianping Li, Shifei Tu, **Quanjia Zhong**#, and Ruiqiang Ding#, 2026: Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories. Submitted to *Earth's Future*, **Major revision**.
+26. Songjiang Feng, Jianping Li, Wansuo Duan, Jie Feng, Fei Xie, Xiaowei Huai, Ruiqiang Ding#, and **Quanjia Zhong**#, 2026: AI-driven operational forecasting systems redefine the bounds of weather predictability. Submitted to *npj Climate and Atmospheric Science*, **Under review**.    
    
 ## Authorized invention patent
 1. **Quanjia Zhong**, Ruiqiang Ding, 2024. Method for Generating Ensemble Initial Perturbations of Regional Numerical Models and Forecasting System. Chinese Patent 202310381547X
