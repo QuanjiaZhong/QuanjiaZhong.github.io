@@ -29,7 +29,7 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 
 
 # 🔥 News
-- *2026.10*: 🎉 Congratulations to Quanjia Zhong on being invited to serve as an Associate Editor for **Journal of Geophysical Research: Atmospheres**!
+- *2026.10*: 🎉 Congratulations to Quanjia Zhong on being invited to serve as an Associate Editor for **JGR: Atmospheres**!
 - *2026.10*: 🎉 One paper was accepted by **Earth's Future**.
 - *2026.08*: 🎉 One paper was accepted by **Journal of Geophysical Research - Atmospheres**.
 - *2026.06*: 🎉 Congratulations to **Quanjia Zhong** on his promotion to **Research Assistant Professor**.
