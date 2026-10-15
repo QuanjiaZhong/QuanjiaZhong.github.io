@@ -29,6 +29,8 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 
 
 # 🔥 News
+- *2026.10*: 🎉 Congratulations to Quanjia Zhong on being invited to serve as an Associate Editor for **Journal of Geophysical Research: Atmospheres**!
+- *2026.10*: 🎉 One paper was accepted by **Earth's Future**.
 - *2026.08*: 🎉 One paper was accepted by **Journal of Geophysical Research - Atmospheres**.
 - *2026.06*: 🎉 Congratulations to **Quanjia Zhong** on his promotion to **Research Assistant Professor**.
 - *2025.05*: 🎉 Welcome **Kai Deng** to join the group!
@@ -135,9 +137,10 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 - 大气科学(Chinese Journal of the Atmospheric Sciences), 大气科学学报(Transactions of Atmospheric Sciences), 海洋气象学报（Journal of Marine Meteorology）
 
 ## Editorial Board
-- Environmental Research Series (IOP Publishing), Advisory Panel Member(2026-present)
-- Dynamics of Atmospheres and Oceans, Editorial Board Members(2026-present)
-- The Innovation Geoscience, Youth Editor(2025-2028)
+- Journal of Geophysical Research: Atmospheres, Associate Editor (2026-present)
+- Environmental Research Series (IOP Publishing), Advisory Panel Member (2026-present)
+- Dynamics of Atmospheres and Oceans, Editorial Board Members (2026-present)
+- The Innovation Geoscience, Youth Editor (2025-2028)
 - 海洋气象学报(Journal of Marine Meteorology), 青年编委(Early Career Editorial Board Member, 2025-2027）
 
 # 🧑‍🎓 Group Members
