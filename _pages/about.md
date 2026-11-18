@@ -29,10 +29,11 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 
 
 # 🔥 News
+- *2026.11*: 🎉**Quanjia Zhong** serves as an Associate Editor for **Climate Dynamics**.
 - *2026.11*: 🎉 One paper was accepted by **npj Climate and Atmospheric Science**.
-- *2026.10*: 🎉 Congratulations to **Quanjia Zhong** on being invited to serve as an Associate Editor for **JGR: Atmospheres**!
+- *2026.10*: 🎉 **Quanjia Zhong** serves as an Associate Editor for **Journal of Geophysical Research: Atmospheres**.
 - *2026.10*: 🎉 One paper was accepted by **Earth's Future**.
-- *2026.08*: 🎉 One paper was accepted by **Journal of Geophysical Research - Atmospheres**.
+- *2026.08*: 🎉 One paper was accepted by **Journal of Geophysical Research: Atmospheres**.
 - *2026.06*: 🎉 Congratulations to **Quanjia Zhong** on his promotion to **Research Assistant Professor**.
 - *2025.05*: 🎉 Welcome **Kai Deng** to join the group!
 - *2026.04*: 🎉 Congratulations to **Quanjia Zhong** on the invitation to the **Environmental Research Series** Advisory Panel (IOP Publishing).
@@ -117,7 +118,8 @@ I am currently a Research Assistant Professor in the Department of Ocean Science
 23. Mengjiao Du, Ruixin Liu, **Quanjia Zhong**#, Xiang Li, and Kan Yi (2023). Study and application on the method of estimating disaster warning time for offshore wind farms based on tropical cyclone radius (in Chinese). Marine Forecasts, 40(3), 66–74.
 24. Yujie Liu, Yang Li, Ruiqiang Ding, **Quanjia Zhong**#, and Shifei Tu (2023). Differences in precipitation characteristics before and after rapid intensification of tropical cyclones over the western North Pacific Ocean (in Chinese). Journal of Guangdong Ocean University, 43(3), 1–9.
 ## Preprints
-25. Songjiang Feng, Jianping Li, Wansuo Duan, Jie Feng, Fei Xie, Xiaowei Huai, Ruiqiang Ding#, and **Quanjia Zhong**#, 2026: AI-driven operational forecasting systems redefine the bounds of weather predictability. Submitted to *npj Climate and Atmospheric Science*, **Accepted**.    
+25. Songjiang Feng, Jianping Li, Wansuo Duan, Jie Feng, Fei Xie, Xiaowei Huai, Ruiqiang Ding#, and **Quanjia Zhong**#, 2026: AI-driven operational forecasting systems redefine the bounds of weather predictability. Submitted to *npj Climate and Atmospheric Science*, **Accepted**.
+26. Haowei Chen, Qun Tian,**Quanjia Zhong**#, Cuicui Gao, and Jianping Gan, 2026: Urbanization-Induced Regional Climate Change in the Pearl River Delta. Submitted to *Meteorology and Atmospheric Physics*, **Minor Revision**.
    
 ## Authorized invention patent
 1. **Quanjia Zhong**, Ruiqiang Ding, 2024. Method for Generating Ensemble Initial Perturbations of Regional Numerical Models and Forecasting System. Chinese Patent 202310381547X
